@@ -1,0 +1,1984 @@
+1	Essa	esse	pron	pron-det	<dem>|F|S	2	SUBJ	_	_
+2	é	ser	v	v-fin	PR|3S|IND	0	STA	_	_
+3	a	o	art	art	<artd>|F|S	4	>N	_	_
+4	avaliação	avaliação	n	n	F|S	2	SC	_	_
+5	de	de	prp	prp	<sam->	4	N<	_	_
+6	o	o	art	art	<-sam>|<artd>|M|S	7	>N	_	_
+7	Instituto_Internacional_de_Estudos_Estratégicos	Instituto_Internacional_de_Estudos_Estratégicos	prop	prop	M|S	5	P<	_	_
+8	de	de	prp	prp	_	7	N<	_	_
+9	Londres	Londres	prop	prop	F|S	8	P<	_	_
+10	(	(	punc	punc	_	7	PUNC	_	_
+11	IIEE	IIEE	prop	prop	M|S	7	APP	_	_
+12	)	)	punc	punc	_	7	PUNC	_	_
+13	,	,	punc	punc	_	7	PUNC	_	_
+14	um	um	pron	pron-det	<quant>|M|S	7	N<PRED	_	_
+15	de	de	prp	prp	<sam->	14	N<	_	_
+16	os	o	art	art	<-sam>|<artd>|M|P	19	>N	_	_
+17	mais	mais	adv	adv	<quant>|<KOMP>	18	>A	_	_
+18	importantes	importante	adj	adj	M|P	19	>N	_	_
+19	centros	centro	n	n	M|P	15	P<	_	_
+20	de	de	prp	prp	_	19	N<	_	_
+21	pesquisa	pesquisa	n	n	F|S	20	P<	_	_
+22	militar	militar	adj	adj	F|S	21	N<	_	_
+23	de	de	prp	prp	<sam->	19	N<	_	_
+24	o	o	art	art	<-sam>|<artd>|M|S	25	>N	_	_
+25	Ocidente	Ocidente	prop	prop	M|S	23	P<	_	_
+26	.	.	punc	punc	_	2	PUNC	_	_
+
+
+1	O	o	art	art	<artd>|M|S	2	>N	_	_
+2	acordo	acordo	n	n	M|S	6	SUBJ	_	_
+3	de	de	prp	prp	<sam->	2	N<	_	_
+4	a	o	art	art	<-sam>|<artd>|F|S	5	>N	_	_
+5	dívida	dívida	n	n	F|S	3	P<	_	_
+6	implica	implicar	v	v-fin	PR|3S|IND	0	STA	_	_
+7	a	o	art	art	<artd>|F|S	8	>N	_	_
+8	troca	troca	n	n	F|S	6	ACC	_	_
+9	de	de	prp	prp	<sam->	8	N<	_	_
+10	os	o	art	art	<-sam>|<artd>|M|P	11	>N	_	_
+11	papéis	papel	n	n	M|P	9	P<	_	_
+12	atuais	atual	adj	adj	M|P	11	N<	_	_
+13	por	por	prp	prp	_	8	N<	_	_
+14	uma	um	art	art	<arti>|F|S	15	>N	_	_
+15	combinação	combinação	n	n	F|S	13	P<	_	_
+16	de	de	prp	prp	_	15	N<	_	_
+17	cinco	cinco	num	num	<card>|M|P	18	>N	_	_
+18	tipos	tipo	n	n	M|P	16	P<	_	_
+19	diferentes	diferente	adj	adj	M|P	18	N<	_	_
+20	de	de	prp	prp	_	18	N<	_	_
+21	novos	novo	adj	adj	M|P	22	>N	_	_
+22	papéis	papel	n	n	M|P	20	P<	_	_
+23	.	.	punc	punc	_	6	PUNC	_	_
+
+
+1	Para	para	prp	prp	_	20	ADVL	_	_
+2	o	o	art	art	<artd>|M|S	3	>N	_	_
+3	volante	volante	n	n	M|S	1	P<	_	_
+4	Dinho	Dinho	prop	prop	M|S	3	N<	_	_
+5	,	,	punc	punc	_	3	PUNC	_	_
+6	um	um	num	num	<card>|M|S	3	N<PRED	_	_
+7	de	de	prp	prp	<sam->	6	N<	_	_
+8	os	o	art	art	<-sam>|<artd>|M|P	9	>N	_	_
+9	jogadores	jogador	n	n	M|P	7	P<	_	_
+10	responsáveis	responsável	adj	adj	M|P	9	N<	_	_
+11	por	por	prp	prp	<sam->	10	A<	_	_
+12	o	o	art	art	<-sam>|<artd>|M|S	13	>N	_	_
+13	setor	setor	n	n	M|S	11	P<	_	_
+14	de	de	prp	prp	_	13	N<	_	_
+15	marcação	marcação	n	n	F|S	14	P<	_	_
+16	de	de	prp	prp	<sam->	15	N<	_	_
+17	o	o	art	art	<-sam>|<artd>|M|S	18	>N	_	_
+18	Santos	Santos	prop	prop	M|S	16	P<	_	_
+19	,	,	punc	punc	_	3	PUNC	_	_
+20	é	ser	v	v-fin	PR|3S|IND	0	STA	_	_
+21	impossível	impossível	adj	adj	M|S	20	SC	_	_
+22	segurar	segurar	v	v-inf	_	20	SUBJ	_	_
+23	o	o	art	art	<artd>|M|S	24	>N	_	_
+24	ataque	ataque	n	n	M|S	22	ACC	_	_
+25	de	de	prp	prp	<sam->	24	N<	_	_
+26	o	o	art	art	<-sam>|<artd>|M|S	27	>N	_	_
+27	São_Paulo	São_Paulo	prop	prop	M|S	25	P<	_	_
+28	de	de	prp	prp	<sam->	27	N<	_	_
+29	o	o	art	art	<-sam>|<artd>|M|S	30	>N	_	_
+30	técnico	técnico	n	n	M|S	28	P<	_	_
+31	Telê_Santana	Telê_Santana	prop	prop	M|S	30	N<	_	_
+32	.	.	punc	punc	_	20	PUNC	_	_
+
+
+1	A	o	art	art	<artd>|F|S	2	>N	_	_
+2	reunião	reunião	n	n	F|S	3	SUBJ	_	_
+3	terminou	terminar	v	v-fin	PS|3S|IND	0	STA	_	_
+4	ontem	ontem	adv	adv	_	3	ADVL	_	_
+5	em	em	prp	prp	_	3	ADVL	_	_
+6	Budapeste	Budapeste	prop	prop	M|S	5	P<	_	_
+7	.	.	punc	punc	_	3	PUNC	_	_
+
+
+1	CONCERTOS_INTERNACIONAIS_GLOBO	CONCERTOS_INTERNACIONAIS_GLOBO	prop	prop	M|P	0	UTT	_	_
+2	,	,	punc	punc	_	1	PUNC	_	_
+3	0h	0h	n	n	F|P	1	N<PRED	_	_
+4	.	.	punc	punc	_	1	PUNC	_	_
+
+
+1	Segundo	segundo	prp	prp	<rel>|<prp>	17	ADVL	_	_
+2	o	o	art	art	<artd>|M|S	3	>N	_	_
+3	presidente	presidente	n	n	M|S	1	P<	_	_
+4	de	de	prp	prp	<sam->	3	N<	_	_
+5	o	o	art	art	<-sam>|<artd>|M|S	6	>N	_	_
+6	Corecon	Corecon	prop	prop	M|S	4	P<	_	_
+7	,	,	punc	punc	_	6	PUNC	_	_
+8	Hélio_Portocarrero	Hélio_Portocarrero	prop	prop	M|S	6	APP	_	_
+9	,	,	punc	punc	_	6	PUNC	_	_
+10	a	o	art	art	<artd>|F|S	11	>N	_	_
+11	inflação	inflação	n	n	F|S	16	SUBJ	_	_
+12	de	de	prp	prp	<sam->	11	N<	_	_
+13	o	o	art	art	<-sam>|<artd>|M|S	14	>N	_	_
+14	real	real	n	n	M|S	12	P<	_	_
+15	não	não	adv	adv	_	17	ADVL	_	_
+16	será	ser	v	v-fin	FUT|3S|IND	0	STA	_	_
+17	puxada	puxar	v	v-pcp	F|S	16	MV	_	_
+18	por	por	prp	prp	<sam->	17	PASS	_	_
+19	os	o	art	art	<-sam>|<artd>|M|P	20	>N	_	_
+20	oligopólios	oligopólio	n	n	M|P	18	P<	_	_
+21	,	,	punc	punc	_	20	PUNC	_	_
+22	apontados	apontar	v	v-pcp	M|P	20	N<PRED	_	_
+23	por	por	prp	prp	<sam->	22	PASS	_	_
+24	a	o	art	art	<-sam>|<artd>|F|S	25	>N	_	_
+25	equipe	equipe	n	n	F|S	23	P<	_	_
+26	econômica	econômico	adj	adj	F|S	25	N<	_	_
+27	de	de	prp	prp	<sam->	25	N<	_	_
+28	o	o	art	art	<-sam>|<artd>|M|S	29	>N	_	_
+29	governo	governo	n	n	M|S	27	P<	_	_
+30	como	como	adv	adv	<rel>|<prp>	22	ADVL	_	_
+31	os	o	art	art	<artd>|M|P	33	>N	_	_
+32	principais	principal	adj	adj	<SUP>|M|P	33	>N	_	_
+33	vilões	vilão	n	n	M|P	30	SUBJ	_	_
+34	em	em	prp	prp	<sam->	22	ADVL	_	_
+35	a	o	art	art	<-sam>|<artd>|F|S	36	>N	_	_
+36	subida	subida	n	n	F|S	34	P<	_	_
+37	de	de	prp	prp	_	36	N<	_	_
+38	preços	preço	n	n	M|P	37	P<	_	_
+39	após	após	prp	prp	_	36	N<	_	_
+40	a	o	art	art	<artd>|F|S	41	>N	_	_
+41	implantação	implantação	n	n	F|S	39	P<	_	_
+42	de	de	prp	prp	<sam->	41	N<	_	_
+43	a	o	art	art	<-sam>|<artd>|F|S	44	>N	_	_
+44	URV	uRV	n	n	<prop>|F|S	42	P<	_	_
+45	.	.	punc	punc	_	16	PUNC	_	_
+
+
+1	Moreira_Alves	Moreira_Alves	prop	prop	M|S	3	SUBJ	_	_
+2	também	também	adv	adv	_	3	ADVL	_	_
+3	votou	votar	v	v-fin	PS|3S|IND	0	STA	_	_
+4	a_favor_de	a_favor_de	prp	prp	_	3	ADVL	_	_
+5	Collor	Collor	prop	prop	M|S	4	P<	_	_
+6	em	em	prp	prp	_	3	ADVL	_	_
+7	outros	outro	pron	pron-det	<diff>|<KOMP>|M|P	9	>N	_	_
+8	dois	dois	num	num	<card>|M|P	9	>N	_	_
+9	mandatos	mandato	n	n	M|P	6	P<	_	_
+10	de	de	prp	prp	_	9	N<	_	_
+11	segurança	segurança	n	n	F|S	10	P<	_	_
+12	,	,	punc	punc	_	3	PUNC	_	_
+13	mas	mas	conj	conj-c	<co-vfin>|<co-fmc>	3	CO	_	_
+14	foi	ser	v	v-fin	PS|3S|IND	3	CJT	_	_
+15	vencido	vencer	v	v-pcp	M|S	14	MV	_	_
+16	em	em	prp	prp	<sam->	15	ADVL	_	_
+17	os	o	art	art	<-sam>|<artd>|M|P	19	>N	_	_
+18	dois	dois	num	num	<card>|M|P	19	>N	_	_
+19	julgamentos	julgamento	n	n	M|P	16	P<	_	_
+20	.	.	punc	punc	_	3	PUNC	_	_
+
+
+1	Apenas	apenas	adv	adv	_	2	>A	_	_
+2	dois	dois	num	num	<card>|M|P	3	>N	_	_
+3	árbitros	árbitro	n	n	M|P	4	SUBJ	_	_
+4	resolveram	resolver	v	v-fin	PS/MQP|3P|IND	0	STA	_	_
+5	contar	contar	v	v-inf	_	4	ACC	_	_
+6	todos	todo	pron	pron-det	<quant>|M|P	8	>N	_	_
+7	os	o	art	art	<artd>|M|P	8	>N	_	_
+8	podres	podre	adj	adj	<n>|M|P	5	ACC	_	_
+9	,	,	punc	punc	_	4	PUNC	_	_
+10	enquanto	enquanto	adv	adv	<rel>|<ks>	13	ADVL	_	_
+11	a	o	art	art	<artd>|F|S	12	>N	_	_
+12	federação	federação	n	n	F|S	13	SUBJ	_	_
+13	tem	ter	v	v-fin	PR|3S|IND	4	ADVL	_	_
+14	mais_de	mais_de	adv	adv	<quant>	15	>N	_	_
+15	70	70	num	num	<card>|M|P	13	ACC	_	_
+16	.	.	punc	punc	_	4	PUNC	_	_
+
+
+1	Estiveram	estar	v	v-fin	PS/MQP|3P|IND	0	STA	_	_
+2	presentes	presente	adj	adj	M|P	1	SC	_	_
+3	dirigentes	dirigente	n	n	M|P	1	SUBJ	_	_
+4	de	de	prp	prp	<sam->	3	N<	_	_
+5	o	o	art	art	<-sam>|<artd>|M|S	6	>N	_	_
+6	futebol	futebol	n	n	M|S	4	P<	_	_
+7	,	,	punc	punc	_	3	PUNC	_	_
+8	e	e	conj	conj-c	<co-subj>	3	CO	_	_
+9	autoridades	autoridade	n	n	F|P	3	CJT	_	_
+10	policiais	policial	adj	adj	F|P	9	N<	_	_
+11	civis	civil	n	n	F|P	10	CJT	_	_
+12	e	e	conj	conj-c	<co-postnom>	10	CO	_	_
+13	militares	militar	n	n	F|P	10	CJT	_	_
+14	.	.	punc	punc	_	1	PUNC	_	_
+
+
+1	Felicito	felicitar	v	v-fin	PR|1S|IND	0	STA	_	_
+2	.	.	punc	punc	_	1	PUNC	_	_
+
+
+1	Convencido	convencer	v	v-pcp	M|S	12	PRED	_	_
+2	de	de	prp	prp	_	1	PIV	_	_
+3	que	que	conj	conj-s	_	5	SUB	_	_
+4	Munhoz	Munhoz	prop	prop	M|S	5	SUBJ	_	_
+5	tem	ter	v	v-fin	PR|3S|IND	2	P<	_	_
+6	uma	um	art	art	<arti>|F|S	8	>N	_	_
+7	boa	bom	adj	adj	F|S	8	>N	_	_
+8	retórica	retórica	n	n	F|S	5	ACC	_	_
+9	,	,	punc	punc	_	12	PUNC	_	_
+10	o	o	art	art	<artd>|M|S	11	>N	_	_
+11	publicitário	publicitário	n	n	M|S	12	SUBJ	_	_
+12	pretende	pretender	v	v-fin	PR|3S|IND	0	STA	_	_
+13	deixar	deixar	v	v-inf	_	12	ACC	_	_
+14	o	o	art	art	<artd>|M|S	15	>N	_	_
+15	candidato	candidato	n	n	M|S	13	SUBJ	_	_
+16	«	«	punc	punc	_	17	PUNC	_	_
+17	falar	falar	v	v-inf	3S	13	ACC	_	_
+18	o_que	o_que	pron	pron-indp	<rel>|M|S	19	ACC	_	_
+19	quiser	querer	v	v-fin	FUT|3S|SUBJ	17	ACC	_	_
+20	»	»	punc	punc	_	17	PUNC	_	_
+21	para	para	prp	prp	_	13	ADVL	_	_
+22	,	,	punc	punc	_	13	PUNC	_	_
+23	antes	antes	adv	adv	_	13	ADVL	_	_
+24	de	de	prp	prp	<sam->	23	A<	_	_
+25	a	o	art	art	<-sam>|<artd>|F|S	26	>N	_	_
+26	gravação	gravação	n	n	F|S	24	P<	_	_
+27	final	final	adj	adj	F|S	26	N<	_	_
+28	,	,	punc	punc	_	13	PUNC	_	_
+29	decidir	decidir	v	v-inf	_	21	P<	_	_
+30	o_que	o_que	pron	pron-indp	<interr>|M|S	31	SUBJ	_	_
+31	irá	ir	v	v-fin	FUT|3S|IND	29	ACC	_	_
+32	a	a	prp	prp	<sam->	31	ADVL	_	_
+33	o	o	art	art	<-sam>|<artd>|M|S	34	>N	_	_
+34	ar	ar	n	n	M|S	32	P<	_	_
+35	.	.	punc	punc	_	12	PUNC	_	_
+
+
+1	Muller	Muller	prop	prop	M|S	2	SUBJ	_	_
+2	chega	chegar	v	v-fin	PR|3S|IND	0	STA	_	_
+3	a	a	prp	prp	<sam->	2	ADVL	_	_
+4	as	o	art	art	<-sam>|<artd>|F|P	5	>N	_	_
+5	5h25	5h25	n	n	F|P	3	P<	_	_
+6	em	em	prp	prp	_	2	ADVL	_	_
+7	SP	SP	prop	prop	M|S	6	P<	_	_
+
+
+1	A	o	art	art	<artd>|F|S	3	>N	_	_
+2	maior	grande	adj	adj	<KOMP>|F|S	3	>N	_	_
+3	desaceleração	desaceleração	n	n	F|S	4	SUBJ	_	_
+4	ocorreu	ocorrer	v	v-fin	PS|3S|IND	0	STA	_	_
+5	em	em	prp	prp	<sam->	4	ADVL	_	_
+6	a	o	art	art	<-sam>|<artd>|F|S	7	>N	_	_
+7	região	região	n	n	F|S	5	P<	_	_
+8	de	de	prp	prp	<sam->	7	N<	_	_
+9	a	o	art	art	<-sam>|<artd>|F|S	10	>N	_	_
+10	Avenida_Faria_Lima	Avenida_Faria_Lima	prop	prop	F|S	8	P<	_	_
+11	.	.	punc	punc	_	4	PUNC	_	_
+
+1	Modelo	modelo	n	n	M|S	0	UTT	_	_
+2	sindical	sindical	adj	adj	M|S	1	N<	_	_
+3	e	e	conj	conj-c	_	1	CO	_	_
+4	negociação	negociação	n	n	F|S	1	CJT	_	_
+5	coletiva	coletivo	adj	adj	F|S	4	N<	_	_
+
+1	A	o	art	art	<artd>|F|S	2	>N	_	_
+2	equipe	equipe	n	n	F|S	3	SUBJ	_	_
+3	enfrenta	enfrentar	v	v-fin	PR|3S|IND	0	STA	_	_
+4	o	o	art	art	<artd>|M|S	5	>N	_	_
+5	time	time	n	n	M|S	3	ACC	_	_
+6	carioca	carioca	adj	adj	M|S	5	N<	_	_
+7	a	a	prp	prp	<sam->	3	ADVL	_	_
+8	as	o	art	art	<-sam>|<artd>|F|P	9	>N	_	_
+9	20h30	20h30	n	n	F|P	7	P<	_	_
+10	em	em	prp	prp	<sam->	3	ADVL	_	_
+11	o	o	art	art	<-sam>|<artd>|M|S	12	>N	_	_
+12	ginásio	ginásio	n	n	M|S	10	P<	_	_
+13	de	de	prp	prp	<sam->	12	N<	_	_
+14	o	o	art	art	<-sam>|<artd>|M|S	15	>N	_	_
+15	Tijuca_Tênis_Clune	Tijuca_Tênis_Clune	prop	prop	M|S	13	P<	_	_
+
+
+1	As	o	art	art	<artd>|F|P	2	>N	_	_
+2	vendas	venda	n	n	F|P	4	SUBJ	_	_
+3	brutas	bruto	adj	adj	F|P	2	N<	_	_
+4	caíram	cair	v	v-fin	PS/MQP|3P|IND	0	STA	_	_
+5	de	de	prp	prp	_	4	ADVL	_	_
+6	US$	US$	n	n	M|P	5	P<	_	_
+7	3,78	3,78	num	num	<card>|M|P	8	>N	_	_
+8	bilhões	bilhão	n	n	M|P	6	N<	_	_
+9	para	para	prp	prp	_	5	?	_	_
+10	US$	US$	n	n	M|P	9	P<	_	_
+11	3,57	3,57	num	num	<card>|M|P	12	>N	_	_
+12	bilhões	bilhão	n	n	M|P	10	N<	_	_
+13	,	,	punc	punc	_	4	PUNC	_	_
+14	consequência	consequência	n	n	F|S	4	ADVL	_	_
+15	de	de	prp	prp	_	14	N<	_	_
+16	reduções	redução	n	n	F|P	15	P<	_	_
+17	tanto	tanto	adv	adv	<parkc-1>	18	CO	_	_
+18	em	em	prp	prp	<sam->	16	N<	_	_
+19	o	o	art	art	<-sam>|<artd>|M|S	20	>N	_	_
+20	mercado	mercado	n	n	M|S	18	P<	_	_
+21	interno	interno	adj	adj	M|S	20	N<	_	_
+22	como	como	adv	adv	<co-advl>|<parkc-2>	18	CO	_	_
+23	em	em	prp	prp	<sam->	18	CJT	_	_
+24	o	o	art	art	<-sam>|<artd>|M|S	25	>N	_	_
+25	externo	externo	n	n	M|S	23	P<	_	_
+26	.	.	punc	punc	_	4	PUNC	_	_
+
+
+1	A	o	art	art	<artd>|F|S	2	>N	_	_
+2	intervenção	intervenção	n	n	F|S	5	SUBJ	_	_
+3	diplomática	diplomático	adj	adj	F|S	2	N<	_	_
+4	russa	russo	adj	adj	F|S	2	N<	_	_
+5	foi	ser	v	v-fin	PS|3S|IND	0	STA	_	_
+6	decisiva	decisivo	adj	adj	F|S	5	SC	_	_
+7	para	para	prp	prp	_	5	ADVL	_	_
+8	evitar	evitar	v	v-inf	_	7	P<	_	_
+9	o	o	art	art	<artd>|M|S	10	>N	_	_
+10	envolvimento	envolvimento	n	n	M|S	8	ACC	_	_
+11	ocidental	ocidental	adj	adj	M|S	10	N<	_	_
+12	em	em	prp	prp	<sam->	8	ADVL	_	_
+13	a	o	art	art	<-sam>|<artd>|F|S	14	>N	_	_
+14	guerra	guerra	n	n	F|S	12	P<	_	_
+15	civil	civil	adj	adj	F|S	14	N<	_	_
+16	em	em	prp	prp	<sam->	8	ADVL	_	_
+17	a	o	art	art	<-sam>|<artd>|F|S	18	>N	_	_
+18	Bósnia	Bósnia	prop	prop	F|S	16	P<	_	_
+19	.	.	punc	punc	_	5	PUNC	_	_
+
+
+1	Os	o	art	art	<artd>|M|P	4	>N	_	_
+2	seus	seu	pron	pron-det	<poss|3S>|M|P	4	>N	_	_
+3	100	100	num	num	<card>|M|P	4	>N	_	_
+4	quilômetros	quilômetro	n	n	M|P	6	SUBJ	_	_
+5	já	já	adv	adv	_	6	ADVL	_	_
+6	levaram	levar	v	v-fin	PS/MQP|3P|IND	0	STA	_	_
+7	este	este	pron	pron-det	<dem>|M|S	8	>N	_	_
+8	ano	ano	n	n	M|S	6	ADVL	_	_
+9	200	200	num	num	<card>|F|P	10	>N	_	_
+10	mil	mil	num	num	<card>|F|P	11	>N	_	_
+11	toneladas	tonelada	n	n	F|P	6	ACC	_	_
+12	de	de	prp	prp	_	11	N<	_	_
+13	soja	soja	n	n	F|S	12	P<	_	_
+14	.	.	punc	punc	_	6	PUNC	_	_
+
+
+1	Custo	custo	n	n	M|S	0	UTT	_	_
+2	:	:	punc	punc	_	1	PUNC	_	_
+3	US$	US$	n	n	M|P	1	N<PRED	_	_
+4	8	8	num	num	<card>|M|P	3	N<	_	_
+5	por	por	prp	prp	_	3	N<	_	_
+6	tonelada	tonelada	n	n	F|S	5	P<	_	_
+7	.	.	punc	punc	_	1	PUNC	_	_
+
+1	Em	em	prp	prp	<sam->	5	>N	_	_
+2	o	o	art	art	<-sam>|<artd>|M|S	3	>N	_	_
+3	Sul	sul	n	n	<prop>|M|S	1	P<	_	_
+4	,	,	punc	punc	_	5	PUNC	_	_
+5	US$	US$	n	n	M|P	0	EXC	_	_
+6	24	24	num	num	<card>|M|P	5	N<	_	_
+7	!	!	punc	punc	_	5	PUNC	_	_
+
+
+1	Por_que	por_que	adv	adv	<interr>	3	ADVL	_	_
+2	não	não	adv	adv	_	3	ADVL	_	_
+3	publicar	publicar	v	v-inf	_	0	QUE	_	_
+4	que	que	conj	conj-s	_	7	SUB	_	_
+5	o	o	art	art	<artd>|M|S	6	>N	_	_
+6	PT	PT	prop	prop	M|S	7	SUBJ	_	_
+7	fez	fazer	v	v-fin	PS|3S|IND	3	ACC	_	_
+8	um	um	art	art	<arti>|M|S	9	>N	_	_
+9	seminário	seminário	n	n	M|S	7	ACC	_	_
+10	em	em	prp	prp	<sam->	7	ADVL	_	_
+11	o	o	art	art	<-sam>|<artd>|M|S	12	>N	_	_
+12	Nordeste	nordeste	n	n	<prop>|M|S	10	P<	_	_
+13	sobre	sobre	prp	prp	_	9	N<	_	_
+14	ela	ela	pron	pron-pers	F|3S|NOM/PIV	13	P<	_	_
+15	e	e	conj	conj-c	<co-vfin>	3	CO	_	_
+16	concluiu	concluir	v	v-fin	PS|3S|IND	3	CJT	_	_
+17	por	por	prp	prp	<sam->	16	ADVL	_	_
+18	a	o	art	art	<-sam>|<artd>|F|S	19	>N	_	_
+19	necessidade	necessidade	n	n	F|S	17	P<	_	_
+20	de	de	prp	prp	_	19	N<	_	_
+21	sua	seu	pron	pron-det	<poss|3S>|F|S	22	>N	_	_
+22	construção	construção	n	n	F|S	20	P<	_	_
+23	?	?	punc	punc	_	3	PUNC	_	_
+
+
+1	Até	até	prp	prp	_	6	ADVL	_	_
+2	agora	agora	adv	adv	<kc>	1	P<	_	_
+3	,	,	punc	punc	_	6	PUNC	_	_
+4	o	o	art	art	<artd>|M|S	5	>N	_	_
+5	Bradesco_VISA	Bradesco_VISA	prop	prop	M|S	6	SUBJ	_	_
+6	financiava	financiar	v	v-fin	IMPF|3S|IND	0	STA	_	_
+7	em	em	prp	prp	_	6	ADVL	_	_
+8	até	até	prp	prp	_	7	P<	_	_
+9	quatro	quatro	num	num	<card>|F|P	10	>N	_	_
+10	parcelas	parcela	n	n	F|P	8	P<	_	_
+11	,	,	punc	punc	_	10	PUNC	_	_
+12	com	com	prp	prp	_	10	N<PRED	_	_
+13	os	o	art	art	<artd>|M|P	14	>N	_	_
+14	juros	juro	n	n	M|P	12	P<	_	_
+15	cobrados	cobrar	v	v-pcp	M|P	14	N<	_	_
+16	sobre	sobre	prp	prp	_	15	ADVL	_	_
+17	os	o	art	art	<artd>|M|P	18	>N	_	_
+18	cruzeiros	cruzeiro	n	n	M|P	16	P<	_	_
+19	reais	real	adj	adj	M|P	18	N<	_	_
+20	.	.	punc	punc	_	6	PUNC	_	_
+
+
+1	Jovens	jovem	adj	adj	M|P	2	>N	_	_
+2	estudantes	estudante	n	n	M|P	21	PRED	_	_
+3	em	em	prp	prp	<sam->	2	N<	_	_
+4	a	o	art	art	<-sam>|<artd>|F|S	5	>N	_	_
+5	Belo_Horizonte	Belo_Horizonte	prop	prop	F|S	3	P<	_	_
+6	de	de	prp	prp	<sam->	5	N<	_	_
+7	os	o	art	art	<-sam>|<artd>|M|P	8	>N	_	_
+8	anos	ano	n	n	M|P	6	P<	_	_
+9	20	20	num	num	<card>|M|P	8	N<	_	_
+10	,	,	punc	punc	_	20	PUNC	_	_
+11	o	o	art	art	<artd>|M|S	13	>N	_	_
+12	futuro	futuro	adj	adj	M|S	13	>N	_	_
+13	médico	médico	n	n	M|S	20	SUBJ	_	_
+14	Juscelino_Kubitschek	Juscelino_Kubitschek	prop	prop	M|S	13	N<	_	_
+15	e	e	conj	conj-c	<co-subj>	13	CO	_	_
+16	o	o	art	art	<artd>|M|S	18	>N	_	_
+17	futuro	futuro	adj	adj	M|S	18	>N	_	_
+18	advogado	advogado	n	n	M|S	13	CJT	_	_
+19	José_Maria_Alkimin	José_Maria_Alkimin	prop	prop	M|S	18	N<	_	_
+20	costumavam	costumar	v	v-fin	IMPF|3P|IND	0	STA	_	_
+21	sair	sair	v	v-inf	_	20	MV	_	_
+22	juntos	junto	adv	adv	_	21	ADVL	_	_
+23	em	em	prp	prp	_	21	ADVL	_	_
+24	busca	busca	n	n	F|S	23	P<	_	_
+25	de	de	prp	prp	_	24	N<	_	_
+26	moças	moça	n	n	F|P	25	P<	_	_
+27	namoradeiras	namoradeiro	adj	adj	F|P	26	N<	_	_
+28	.	.	punc	punc	_	20	PUNC	_	_
+
+
+
+1	Abre	abrir	v	v-fin	PR|3S|IND	0	STA	_	_
+2	a	o	art	art	<artd>|F|S	3	>N	_	_
+3	perspectiva	perspectiva	n	n	F|S	1	ACC	_	_
+4	de	de	prp	prp	_	3	N<	_	_
+5	aplicações	aplicação	n	n	F|P	4	P<	_	_
+6	por	por	prp	prp	_	5	N<	_	_
+7	prazo	prazo	n	n	M|S	6	P<	_	_
+8	mais	mais	adv	adv	<quant>|<KOMP>	9	>A	_	_
+9	longos	longo	adj	adj	M|P	7	N<	_	_
+10	.	.	punc	punc	_	1	PUNC	_	_
+
+
+1	O	o	art	art	<artd>|M|S	3	>N	_	_
+2	nosso	nosso	pron	pron-det	<poss|1P>|M|S	3	>N	_	_
+3	jogo	jogo	n	n	M|S	5	SUBJ	_	_
+4	aqui	aqui	adv	adv	_	5	ADVL	_	_
+5	é	ser	v	v-fin	PR|3S|IND	9	ACC	_	_
+6	prevenção	prevenção	n	n	F|S	5	SC	_	_
+7	»	»	punc	punc	_	9	PUNC	_	_
+8	,	,	punc	punc	_	9	PUNC	_	_
+9	disse	dizer	v	v-fin	PS|3S|IND	0	STA	_	_
+10	o	o	art	art	<artd>|M|S	11	>N	_	_
+11	secretário	secretário	n	n	M|S	9	SUBJ	_	_
+12	de	de	prp	prp	_	11	N<	_	_
+13	Segurança_Pública	Segurança_Pública	prop	prop	F|S	12	P<	_	_
+14	de	de	prp	prp	<sam->	11	N<	_	_
+15	o	o	art	art	<-sam>|<artd>|M|S	16	>N	_	_
+16	Estado	estado	n	n	<prop>|M|S	14	P<	_	_
+17	de	de	prp	prp	_	16	N<	_	_
+18	São_Paulo	São_Paulo	prop	prop	M|S	17	P<	_	_
+19	,	,	punc	punc	_	11	PUNC	_	_
+20	Antônio_Correia_Meyer	Antônio_Correia_Meyer	prop	prop	M|S	11	APP	_	_
+21	.	.	punc	punc	_	9	PUNC	_	_
+
+
+1	Collor	Collor	prop	prop	M|S	2	SUBJ	_	_
+2	recebia	receber	v	v-fin	IMPF|3S|IND	0	STA	_	_
+3	telefonemas	telefonema	n	n	M|P	2	ACC	_	_
+4	o	o	art	art	<artd>|M|S	5	>N	_	_
+5	tempo	tempo	n	n	M|S	2	ADVL	_	_
+6	inteiro	inteiro	adj	adj	M|S	5	N<	_	_
+7	,	,	punc	punc	_	3	PUNC	_	_
+8	de	de	prp	prp	<sam->	3	N<PRED	_	_
+9	os	o	art	art	<-sam>|<artd>|M|P	10	>N	_	_
+10	advogados	advogado	n	n	M|P	8	P<	_	_
+11	,	,	punc	punc	_	8	PUNC	_	_
+12	de	de	prp	prp	_	8	CJT	_	_
+13	políticos	político	n	n	M|P	12	P<	_	_
+14	amigos	amigo	adj	adj	M|P	13	N<	_	_
+15	e	e	conj	conj-c	<co-pred>	8	CO	_	_
+16	de	de	prp	prp	_	8	CJT	_	_
+17	pessoas	pessoa	n	n	F|P	16	P<	_	_
+18	que	que	pron	pron-indp	<rel>|F|P	19	SUBJ	_	_
+19	prestavam	prestar	v	v-fin	IMPF|3P|IND	17	N<	_	_
+20	solidariedade	solidariedade	n	n	F|S	19	ACC	_	_
+21	.	.	punc	punc	_	2	PUNC	_	_
+
+
+1	Para	para	prp	prp	_	7	ADVL	_	_
+2	o	o	art	art	<artd>|M|S	3	>N	_	_
+3	psicanalista	psicanalista	n	n	M|S	1	P<	_	_
+4	Carl_Jung	Carl_Jung	prop	prop	M|S	3	N<	_	_
+5	,	,	punc	punc	_	7	PUNC	_	_
+6	esta	este	pron	pron-det	<dem>|F|S	7	SUBJ	_	_
+7	seria	ser	v	v-fin	COND|3S	0	STA	_	_
+8	a	o	art	art	<artd>|F|S	9	>N	_	_
+9	origem	origem	n	n	F|S	7	SC	_	_
+10	de	de	prp	prp	<sam->	9	N<	_	_
+11	os	o	art	art	<-sam>|<artd>|M|P	12	>N	_	_
+12	globos	globo	n	n	M|P	10	P<	_	_
+13	pendurados	pendurar	v	v-pcp	M|P	12	N<	_	_
+14	em	em	prp	prp	<sam->	13	PIV	_	_
+15	as	o	art	art	<-sam>|<artd>|F|P	16	>N	_	_
+16	árvores	árvore	n	n	F|P	14	P<	_	_
+17	contemporâneas	contemporâneo	adj	adj	F|P	16	N<	_	_
+18	.	.	punc	punc	_	7	PUNC	_	_
+
+
+1	Isto	isto	pron	pron-indp	<dem>|M|S	2	SUBJ	_	_
+2	restringe	restringir	v	v-fin	PR|3S|IND	0	STA	_	_
+3	a	a	prp	prp	<ALT>	2	PIV	_	_
+4	a	o	art	art	<artd>|F|S	5	>N	_	_
+5	URV	uRV	prop	prop	F|S	3	P<	_	_
+6	todos	todo	pron	pron-det	<quant>|M|P	8	>N	_	_
+7	os	o	art	art	<artd>|M|P	8	>N	_	_
+8	poderes	poder	n	n	M|P	2	ACC	_	_
+9	de	de	prp	prp	<sam->	8	N<	_	_
+10	a	o	art	art	<-sam>|<artd>|F|S	11	>N	_	_
+11	moeda	moeda	n	n	F|S	9	P<	_	_
+12	de	de	prp	prp	<sam->	11	N<	_	_
+13	o	o	art	art	<-sam>|<artd>|M|S	14	>N	_	_
+14	país	país	n	n	M|S	12	P<	_	_
+15	.	.	punc	punc	_	2	PUNC	_	_
+
+
+1	Aparentemente	aparentemente	adv	adv	_	3	ADVL	_	_
+2	ele	ele	pron	pron-pers	M|3S|NOM	3	SUBJ	_	_
+3	quebrou	quebrar	v	v-fin	PS|3S|IND	0	STA	_	_
+4	o	o	art	art	<artd>|M|S	5	>N	_	_
+5	pescoço	pescoço	n	n	M|S	3	ACC	_	_
+6	quando	quando	adv	adv	<rel>|<ks>	7	ADVL	_	_
+7	tentava	tentar	v	v-fin	IMPF|3S|IND	3	ADVL	_	_
+8	fugir	fugir	v	v-inf	_	7	ACC	_	_
+9	de	de	prp	prp	<sam->	8	PIV	_	_
+10	o	o	art	art	<-sam>|<artd>|M|S	11	>N	_	_
+11	fogo	fogo	n	n	M|S	9	P<	_	_
+12	cruzado	cruzar	v	v-pcp	M|S	11	N<	_	_
+13	.	.	punc	punc	_	3	PUNC	_	_
+
+1	Além_de	além_de	prp	prp	_	13	ADVL	_	_
+2	muito	muito	adv	adv	<quant>	3	>A	_	_
+3	ruim	ruim	adj	adj	M|S	1	P<	_	_
+4	,	,	punc	punc	_	13	PUNC	_	_
+5	o	o	art	art	<artd>|M|S	6	>N	_	_
+6	filme	filme	n	n	M|S	13	SUBJ	_	_
+7	«	«	punc	punc	_	6	PUNC	_	_
+8	O_Magnata_Grego	O_Magnata_Grego	prop	prop	M|S	6	N<	_	_
+9	»	»	punc	punc	_	6	PUNC	_	_
+10	(	(	punc	punc	_	6	PUNC	_	_
+11	The_Greek_Tycoon	The_Greek_Tycoon	prop	prop	M|S	6	N<PRED	_	_
+12	)	)	punc	punc	_	6	PUNC	_	_
+13	dedicava	dedicar	v	v-fin	IMPF|3S|IND	0	STA	_	_
+14	mais	muito	pron	pron-det	<quant>|<KOMP>|F|S	15	>N	_	_
+15	atenção	atenção	n	n	F|S	13	ACC	_	_
+16	a	a	prp	prp	<sam->	13	PIV	_	_
+17	o	o	art	art	<-sam>|<artd>|M|S	20	>N	_	_
+18	seu	seu	pron	pron-det	<poss|3S>|<si>|M|S	20	>N	_	_
+19	segundo	segundo	adj	adj	<NUM-ord>|M|S	20	>N	_	_
+20	marido	marido	n	n	M|S	16	P<	_	_
+21	,	,	punc	punc	_	20	PUNC	_	_
+22	interpretado	interpretar	v	v-pcp	M|S	20	N<PRED	_	_
+23	por	por	prp	prp	_	22	PASS	_	_
+24	Anthony_Quinn	Anthony_Quinn	prop	prop	M|S	23	P<	_	_
+25	,	,	punc	punc	_	24	PUNC	_	_
+26	que	que	pron	pron-indp	<rel>|M|S	28	SUBJ	_	_
+27	aliás	aliás	adv	adv	<kc>	28	ADVL	_	_
+28	faria	fazer	v	v-fin	COND|3S	24	N<PRED	_	_
+29	o	o	art	art	<artd>|M|S	30	>N	_	_
+30	papel	papel	n	n	M|S	28	ACC	_	_
+31	de	de	prp	prp	_	30	N<	_	_
+32	Sócrates_Onassis	Sócrates_Onassis	prop	prop	M|S	31	P<	_	_
+33	(	(	punc	punc	_	32	PUNC	_	_
+34	sogro	sogro	n	n	M|S	32	N<PRED	_	_
+35	de	de	prp	prp	_	34	N<	_	_
+36	Jackie	Jackie	prop	prop	F|S	35	P<	_	_
+37	)	)	punc	punc	_	32	PUNC	_	_
+38	em	em	prp	prp	<sam->	28	ADVL	_	_
+39	o	o	art	art	<-sam>|<artd>|M|S	40	>N	_	_
+40	telefilme	telefilme	n	n	M|S	38	P<	_	_
+41	«	«	punc	punc	_	40	PUNC	_	_
+42	Onassis:_The_Richest_Man_in_the_World	Onassis:_The_Richest_Man_in_the_World	prop	prop	M|S	40	N<	_	_
+43	»	»	punc	punc	_	40	PUNC	_	_
+44	,	,	punc	punc	_	40	PUNC	_	_
+45	produzido	produzir	v	v-pcp	M|S	40	N<PRED	_	_
+46	em	em	prp	prp	_	45	ADVL	_	_
+47	1988	1988	num	num	<card>|M|P	46	P<	_	_
+48	.	.	punc	punc	_	13	PUNC	_	_
+
+
+1	Sequer	sequer	adv	adv	_	3	ADVL	_	_
+2	lhe	ele	pron	pron-pers	M|3S|DAT	3	DAT	_	_
+3	ocorreu	ocorrer	v	v-fin	PS|3S|IND	0	STA	_	_
+4	que	que	conj	conj-s	_	13	SUB	_	_
+5	em	em	prp	prp	_	15	ADVL	_	_
+6	fevereiro	fevereiro	n	n	M|S	5	P<	_	_
+7	o	o	art	art	<artd>|M|S	9	>N	_	_
+8	«	«	punc	punc	_	9	PUNC	_	_
+9	excesso	excesso	n	n	M|S	13	SUBJ	_	_
+10	»	»	punc	punc	_	9	PUNC	_	_
+11	de	de	prp	prp	_	9	N<	_	_
+12	aumento	aumento	n	n	M|S	11	P<	_	_
+13	poderia	poder	v	v-fin	COND|3S	3	SUBJ	_	_
+14	ser	ser	v	v-inf	_	13	AUX	_	_
+15	compensado	compensar	v	v-pcp	M|S	14	MV	_	_
+16	.	.	punc	punc	_	3	PUNC	_	_
+
+
+1	Parar	parar	v	v-inf	_	7	SUBJ	_	_
+2	esse	esse	pron	pron-det	<dem>|M|S	3	>N	_	_
+3	ataque	ataque	n	n	M|S	1	ACC	_	_
+4	em	em	prp	prp	<sam->	3	N<	_	_
+5	o	o	art	art	<-sam>|<artd>|M|S	6	>N	_	_
+6	bloqueio	bloqueio	n	n	M|S	4	P<	_	_
+7	é	ser	v	v-fin	PR|3S|IND	0	STA	_	_
+8	uma	um	art	art	<arti>|F|S	9	>N	_	_
+9	missão	missão	n	n	F|S	7	SC	_	_
+10	quase	quase	adv	adv	<quant>	11	>A	_	_
+11	impossível	impossível	adj	adj	F|S	9	N<	_	_
+12	.	.	punc	punc	_	7	PUNC	_	_
+
+
+1	O	o	art	art	<artd>|M|S	2	>N	_	_
+2	Jogo	jogo	n	n	<prop>|M|S	0	UTT	_	_
+
+
+1	Teremos	ter	v	v-fin	FUT|1P|IND	0	STA	_	_
+2	,	,	punc	punc	_	1	PUNC	_	_
+3	então	então	adv	adv	<kc>	1	ADVL	_	_
+4	,	,	punc	punc	_	1	PUNC	_	_
+5	um	um	art	art	<arti>|M|S	6	>N	_	_
+6	meio-campo	meio-campo	n	n	M|S	1	ACC	_	_
+7	ainda	ainda	adv	adv	_	8	>A	_	_
+8	mais	mais	adv	adv	<quant>|<KOMP>	9	>N	_	_
+9	sólido	sólido	adj	adj	M|S	6	N<	_	_
+10	em	em	prp	prp	<sam->	9	N<	_	_
+11	a	o	art	art	<-sam>|<artd>|F|S	12	>N	_	_
+12	proteção	proteção	n	n	F|S	10	P<	_	_
+13	a	a	prp	prp	<sam->	12	N<	_	_
+14	a	o	art	art	<-sam>|<artd>|F|S	15	>N	_	_
+15	zaga	zaga	n	n	F|S	13	P<	_	_
+16	e	e	conj	conj-c	<co-postnom	9	CO	_	_
+17	mais	mais	adv	adv	<quant>|<KOMP>	18	>A	_	_
+18	inteligente	inteligente	adj	adj	M|S	9	CJT	_	_
+19	,	,	punc	punc	_	18	PUNC	_	_
+20	veloz	veloz	adj	adj	M|S	18	CJT	_	_
+21	e	e	conj	conj-c	_	18	CO	_	_
+22	agressivo	agressivo	adj	adj	M|S	18	CJT	_	_
+23	,	,	punc	punc	_	18	PUNC	_	_
+24	em	em	prp	prp	<sam->	18	N<PRED	_	_
+25	a	o	art	art	<-sam>|<artd>|F|S	26	>N	_	_
+26	combinação	combinação	n	n	F|S	24	P<	_	_
+27	com	com	prp	prp	_	26	N<	_	_
+28	o	o	art	art	<artd>|M|S	29	>N	_	_
+29	ataque	ataque	n	n	M|S	27	P<	_	_
+30	.	.	punc	punc	_	1	PUNC	_	_
+
+
+1	Coincidentemente	coincidentemente	adv	adv	_	5	ADVL	_	_
+2	,	,	punc	punc	_	5	PUNC	_	_
+3	Jason	Jason	prop	prop	M|S	5	SUBJ	_	_
+4	também	também	adv	adv	_	5	ADVL	_	_
+5	levou	levar	v	v-fin	PS|3S|IND	0	STA	_	_
+6	o	o	art	art	<artd>|M|S	8	>N	_	_
+7	maior	grande	adj	adj	<KOMP>|M|S	8	>N	_	_
+8	número	número	n	n	M|S	5	ACC	_	_
+9	de	de	prp	prp	_	8	N<	_	_
+10	balas	bala	n	n	F|P	9	P<	_	_
+11	(	(	punc	punc	_	8	PUNC	_	_
+12	132	132	num	num	<card>|F|P	8	N<PRED	_	_
+13	)	)	punc	punc	_	8	PUNC	_	_
+14	,	,	punc	punc	_	5	PUNC	_	_
+15	contra	contra	prp	prp	_	5	ADVL	_	_
+16	27	27	num	num	<card>|F|P	15	P<	_	_
+17	de	de	prp	prp	_	16	N<	_	_
+18	Michael_Myers	Michael_Myers	prop	prop	M|S	17	P<	_	_
+19	e	e	conj	conj-c	<co-prparg>	16	CO	_	_
+20	apenas	apenas	adv	adv	_	21	>A	_	_
+21	seis	seis	num	num	<card>|F|P	16	CJT	_	_
+22	de	de	prp	prp	_	21	N<	_	_
+23	Freddy_Krueger	Freddy_Krueger	prop	prop	M|S	22	P<	_	_
+24	.	.	punc	punc	_	5	PUNC	_	_
+
+
+1	Durante	durante	prp	prp	_	8	ADVL	_	_
+2	o	o	art	art	<artd>|M|S	3	>N	_	_
+3	almoço	almoço	n	n	M|S	1	P<	_	_
+4	familiar	familiar	adj	adj	M|S	3	N<	_	_
+5	,	,	punc	punc	_	8	PUNC	_	_
+6	por_exemplo	por_exemplo	adv	adv	_	8	ADVL	_	_
+7	,	,	punc	punc	_	8	PUNC	_	_
+8	fala-	falar	v	v-fin	<hyfen>|PR|3S|IND	0	STA	_	_
+9	se	se	pron	pron-pers	M/F|3S/P|ACC	8	SUBJ	_	_
+10	muito	muito	adv	adv	<quant>	8	ADVL	_	_
+11	sobre	sobre	prp	prp	_	8	PIV	_	_
+12	quase	quase	adv	adv	<quant>	13	>N	_	_
+13	nada	nada	pron	pron-indp	<quant>|M|S	11	P<	_	_
+14	e	e	conj	conj-c	<co-vfin>|<co-fmc>	8	CO	_	_
+15	ninguém	ninguém	pron	pron-indp	M|S	16	SUBJ	_	_
+16	mastiga	mastigar	v	v-fin	PR|3S|IND	8	CJT	_	_
+17	.	.	punc	punc	_	8	PUNC	_	_
+
+
+1	Como	como	adv	adv	<rel>	13	SC	_	_
+2	exemplo	exemplo	n	n	M|S	1	SC	_	_
+3	em	em	prp	prp	<sam->	2	N<	_	_
+4	o	o	art	art	<-sam>|<artd>|M|S	5	>N	_	_
+5	combate	combate	n	n	M|S	3	P<	_	_
+6	a	a	prp	prp	<sam->	5	N<	_	_
+7	a	o	art	art	<-sam>|<artd>|F|S	8	>N	_	_
+8	violência	violência	n	n	F|S	6	P<	_	_
+9	,	,	punc	punc	_	13	PUNC	_	_
+10	o	o	art	art	<artd>|M|S	11	>N	_	_
+11	prefeito	prefeito	n	n	M|S	13	SUBJ	_	_
+12	carioca	carioca	adj	adj	M|S	11	N<	_	_
+13	cita	citar	v	v-fin	PR|3S|IND	0	STA	_	_
+14	a	o	art	art	<artd>|F|S	15	>N	_	_
+15	criação	criação	n	n	F|S	13	ACC	_	_
+16	de	de	prp	prp	<sam->	15	N<	_	_
+17	a	o	art	art	<-sam>|<artd>|F|S	18	>N	_	_
+18	Guarda_Municipal	Guarda_Municipal	prop	prop	F|S	16	P<	_	_
+19	,	,	punc	punc	_	18	PUNC	_	_
+20	um	um	art	art	<arti>|M|S	21	>N	_	_
+21	grupo	grupo	n	n	M|S	18	N<PRED	_	_
+22	de	de	prp	prp	_	21	N<	_	_
+23	atividades	atividade	n	n	F|P	22	P<	_	_
+24	especiais	especial	adj	adj	F|P	23	N<	_	_
+25	que	que	pron	pron-indp	<rel>|F|P	26	SUBJ	_	_
+26	tem	ter	v	v-fin	PR|3S|IND	23	N<	_	_
+27	atuado	atuar	v	v-pcp	_	26	MV	_	_
+28	mais	mais	adv	adv	<quant>|<KOMP>	27	ADVL	_	_
+29	em	em	prp	prp	<sam->	27	PIV	_	_
+30	a	o	art	art	<-sam>|<artd>|F|S	31	>N	_	_
+31	liberação	liberação	n	n	F|S	29	P<	_	_
+32	de	de	prp	prp	_	31	N<	_	_
+33	áreas	área	n	n	F|P	32	P<	_	_
+34	tradicionalmente	tradicionalmente	adv	adv	_	35	ADVL	_	_
+35	ocupadas	ocupar	v	v-pcp	F|P	33	N<	_	_
+36	por	por	prp	prp	_	35	PASS	_	_
+37	camelôs	camelô	n	n	M|P	36	P<	_	_
+38	.	.	punc	punc	_	13	PUNC	_	_
+
+
+1	Santana	Santana	prop	prop	M|S	2	SUBJ	_	_
+2	era	ser	v	v-fin	IMPF|3S|IND	0	STA	_	_
+3	morador	morador	adj	adj	<n>|M|S	2	SC	_	_
+4	antigo	antigo	adj	adj	M|S	3	N<	_	_
+5	de	de	prp	prp	_	3	N<	_	_
+6	Lambari_d'_Oeste	Lambari_d\'_Oeste	prop	prop	M|S	5	P<	_	_
+7	.	.	punc	punc	_	2	PUNC	_	_
+
+1	Os	o	art	art	<artd>|M|P	3	>N	_	_
+2	três	três	num	num	<card>|M|P	3	>N	_	_
+3	cortadores	cortador	n	n	M|P	6	SUBJ	_	_
+4	de	de	prp	prp	_	3	N<	_	_
+5	cana	cana	n	n	F|S	4	P<	_	_
+6	eram	ser	v	v-fin	IMPF|3P|IND	0	STA	_	_
+7	de	de	prp	prp	_	6	SC	_	_
+8	Alagoas	Alagoas	prop	prop	M|S	7	P<	_	_
+9	e	e	conj	conj-c	<co-vfin>|<co-fmc>	6	CO	_	_
+10	estavam	estar	v	v-fin	IMPF|3P|IND	6	CJT	_	_
+11	em	em	prp	prp	<sam->	10	ADVS	_	_
+12	a	o	art	art	<-sam>|<artd>|F|S	13	>N	_	_
+13	cidade	cidade	n	n	F|S	11	P<	_	_
+14	havia	há	prp	prp	_	10	ADVL	_	_
+15	15	15	num	num	<card>|M|P	16	>N	_	_
+16	dias	dia	n	n	M|P	14	P<	_	_
+17	.	.	punc	punc	_	6	PUNC	_	_
+
+
+1	O	o	art	art	<artd>|M|S	2	>N	_	_
+2	presidente	presidente	n	n	M|S	11	SUBJ	_	_
+3	de	de	prp	prp	<sam->	2	N<	_	_
+4	a	o	art	art	<-sam>|<artd>|F|S	5	>N	_	_
+5	Cooper	Cooper	prop	prop	F|S	3	P<	_	_
+6	,	,	punc	punc	_	2	PUNC	_	_
+7	Benedito_Vieira_Pereira	Benedito_Vieira_Pereira	prop	prop	M|S	2	APP	_	_
+8	,	,	punc	punc	_	2	PUNC	_	_
+9	49	49	num	num	<card>|M|P	2	N<PRED	_	_
+10	,	,	punc	punc	_	2	PUNC	_	_
+11	afirmou	afirmar	v	v-fin	PS|3S|IND	0	STA	_	_
+12	que	que	conj	conj-s	_	13	SUB	_	_
+13	pretendia	pretender	v	v-fin	IMPF|3S|IND	11	ACC	_	_
+14	distribuir	distribuir	v	v-inf	_	13	ACC	_	_
+15	leite	leite	n	n	M|S	14	ACC	_	_
+16	C	c	n	n	M|S	15	N<	_	_
+17	em	em	prp	prp	<sam->	14	ADVL	_	_
+18	os	o	art	art	<-sam>|<artd>|M|P	19	>N	_	_
+19	postos	posto	n	n	M|P	17	P<	_	_
+20	de	de	prp	prp	_	19	N<	_	_
+21	venda	venda	n	n	F|S	20	P<	_	_
+22	hoje	hoje	adv	adv	_	14	ADVL	_	_
+23	.	.	punc	punc	_	11	PUNC	_	_
+
+
+1	A	o	art	art	<artd>|F|S	2	>N	_	_
+2	campanha	campanha	n	n	F|S	4	SUBJ	_	_
+3	eleitoral	eleitoral	adj	adj	F|S	2	N<	_	_
+4	encerrou-	encerrar	v	v-fin	<hyfen>|PS|3S|IND	0	STA	_	_
+5	se	se	pron	pron-pers	F|3S|ACC	4	ACC	_	_
+6	em	em	prp	prp	<sam->	4	ADVL	_	_
+7	a	o	art	art	<-sam>|<artd>|F|S	8	>N	_	_
+8	noite	noite	n	n	F|S	6	P<	_	_
+9	de	de	prp	prp	_	8	N<	_	_
+10	quinta-feira	quinta-feira	n	n	F|S	9	P<	_	_
+11	,	,	punc	punc	_	8	PUNC	_	_
+12	com	com	prp	prp	_	8	N<PRED	_	_
+13	um	um	art	art	<arti>|M|S	14	>N	_	_
+14	pronunciamento	pronunciamento	n	n	M|S	12	P<	_	_
+15	de	de	prp	prp	_	14	N<	_	_
+16	oito	oito	num	num	<card>|M|P	17	>N	_	_
+17	minutos	minuto	n	n	M|P	15	P<	_	_
+18	de	de	prp	prp	_	14	N<	_	_
+19	todos	todo	pron	pron-det	<quant>|M|P	21	>N	_	_
+20	os	o	art	art	<artd>|M|P	21	>N	_	_
+21	candidatos	candidato	n	n	M|P	18	P<	_	_
+22	.	.	punc	punc	_	4	PUNC	_	_
+
+
+1	Gilmar	Gilmar	prop	prop	M|S	2	SUBJ	_	_
+2	pretende	pretender	v	v-fin	PR|3S|IND	0	STA	_	_
+3	votar	votar	v	v-inf	_	2	ACC	_	_
+4	em	em	prp	prp	<sam->	3	PIV	_	_
+5	o	o	art	art	<-sam>|<artd>|M|S	6	>N	_	_
+6	senador	senador	n	n	M|S	4	P<	_	_
+7	Esperidião_Amin	Esperidião_Amin	prop	prop	M|S	6	N<	_	_
+8	(	(	punc	punc	_	6	PUNC	_	_
+9	PPR-SC	PPR-SC	prop	prop	M|S	6	N<PRED	_	_
+10	)	)	punc	punc	_	6	PUNC	_	_
+11	.	.	punc	punc	_	2	PUNC	_	_
+
+
+1	A	o	art	art	<artd>|F|S	2	>N	_	_
+2	CBD	CBD	prop	prop	F|S	3	SUBJ	_	_
+3	aliciou	aliciar	v	v-fin	PS|3S|IND	0	STA	_	_
+4	Leônidas	Leônidas	prop	prop	M|S	3	ACC	_	_
+5	(	(	punc	punc	_	4	PUNC	_	_
+6	Vasco	Vasco	prop	prop	M|S	4	N<PRED	_	_
+7	)	)	punc	punc	_	4	PUNC	_	_
+8	,	,	punc	punc	_	4	PUNC	_	_
+9	Luizinho	Luizinho	prop	prop	M|S	4	CJT	_	_
+10	e	e	conj	conj-c	_	9	CO	_	_
+11	Waldemar_de_Brito	Waldemar_de_Brito	prop	prop	M|S	9	CJT	_	_
+12	(	(	punc	punc	_	9	PUNC	_	_
+13	São_Paulo	São_Paulo	prop	prop	M|S	9	N<PRED	_	_
+14	)	)	punc	punc	_	9	PUNC	_	_
+15	,	,	punc	punc	_	3	PUNC	_	_
+16	entre	entre	prp	prp	_	3	ADVL	_	_
+17	outros	outro	pron	pron-det	<diff>|<KOMP>|M|P	16	P<	_	_
+18	.	.	punc	punc	_	3	PUNC	_	_
+
+
+1	O	o	art	art	<artd>|M|S	2	>N	_	_
+2	governo	governo	n	n	M|S	3	SUBJ	_	_
+3	recebeu	receber	v	v-fin	PS|3S|IND	0	STA	_	_
+4	ontem	ontem	adv	adv	_	3	ADVL	_	_
+5	outra	outro	pron	pron-det	<diff>|<KOMP>|F|S	7	>N	_	_
+6	má	má	adj	adj	F|S	7	>N	_	_
+7	notícia	notícia	n	n	F|S	3	ACC	_	_
+8	:	:	punc	punc	_	7	PUNC	_	_
+9	empresários	empresário	n	n	M|P	11	SUBJ	_	_
+10	se	se	pron	pron-pers	M|3P|ACC	11	ACC	_	_
+11	declararam	declarar	v	v-fin	PS/MQP|3P|IND	7	N<PRED	_	_
+12	contrários	contrário	adj	adj	M|P	11	OC	_	_
+13	a	a	prp	prp	<sam->	12	A<	_	_
+14	o	o	art	art	<-sam>|<artd>|M|S	15	>N	_	_
+15	CIP	CIP	prop	prop	M|S	13	P<	_	_
+16	.	.	punc	punc	_	3	PUNC	_	_
+
+1	Estilistas	estilista	n	n	M|P	2	SUBJ	_	_
+2	estarão	estar	v	v-fin	FUT|3P|IND	0	STA	_	_
+3	a	a	prp	prp	<sam->	2	ADVL	_	_
+4	a	o	art	art	<-sam>|<artd>|F|S	5	>N	_	_
+5	disposição	disposição	n	n	F|S	3	P<	_	_
+6	de	de	prp	prp	<sam->	5	N<	_	_
+7	os	o	art	art	<-sam>|<artd>|M|P	8	>N	_	_
+8	clientes	cliente	n	n	M|P	6	P<	_	_
+9	.	.	punc	punc	_	2	PUNC	_	_
+
+
+1	Segundo	segundo	prp	prp	<rel>|<prp>	18	ADVL	_	_
+2	Rosa	Rosa	prop	prop	F|S	1	P<	_	_
+3	,	,	punc	punc	_	2	PUNC	_	_
+4	nutricionista	nutricionista	n	n	F|S	2	N<PRED	_	_
+5	e	e	conj	conj-c	_	4	CO	_	_
+6	professora	professora	n	n	F|S	4	CJT	_	_
+7	de	de	prp	prp	<sam->	4	N<	_	_
+8	a	o	art	art	<-sam>|<artd>|F|S	9	>N	_	_
+9	PUC	PUC	prop	prop	F|S	7	P<	_	_
+10	de	de	prp	prp	_	9	N<	_	_
+11	Campinas	campina	n	n	F|P	10	P<	_	_
+12	,	,	punc	punc	_	18	PUNC	_	_
+13	junto_com	junto_com	prp	prp	_	18	ADVL	_	_
+14	os	o	art	art	<artd>|M|P	15	>N	_	_
+15	alimentos	alimento	n	n	M|P	13	P<	_	_
+16	«	«	punc	punc	_	18	PUNC	_	_
+17	se	se	pron	pron-pers	<refl>|M|3P|ACC	18	ACC	_	_
+18	ingerem	ingerir	v	v-fin	PR|3P|IND	0	STA	_	_
+19	e	e	conj	conj-c	<co-vfin>	18	CO	_	_
+20	digerem	digerir	v	v-fin	PR|3P|IND	18	CJT	_	_
+21	afetos	afeto	n	n	M|P	20	SUBJ	_	_
+22	»	»	punc	punc	_	18	PUNC	_	_
+23	.	.	punc	punc	_	18	PUNC	_	_
+
+
+1	O	o	art	art	<artd>|M|S	2	>N	_	_
+2	direção	direção	n	n	F|S	4	SUBJ	_	_
+3	geral	geral	adj	adj	F|S	2	N<	_	_
+4	é	ser	v	v-fin	PR|3S|IND	0	STA	_	_
+5	de	de	prp	prp	_	4	SC	_	_
+6	Paulo_Borges	Paulo_Borges	prop	prop	M|S	5	P<	_	_
+7	.	.	punc	punc	_	4	PUNC	_	_
+
+
+1	Só	só	adv	adv	_	2	>N	_	_
+2	intelectual	intelectual	n	n	M|S	0	QUE	_	_
+3	quatro-olhos	quatro-olhos	n	n	M|S	2	N<	_	_
+4	?	?	punc	punc	_	2	PUNC	_	_
+
+
+1	Se	se	conj	conj-s	_	2	SUB	_	_
+2	podemos	poder	v	v-fin	PR|1P|IND	11	ADVL	_	_
+3	nos	nós	pron	pron-pers	<refl>|M/F|1P|ACC	4	ACC	_	_
+4	orgulhar	orgulhar	v	v-inf	_	2	MV	_	_
+5	de	de	prp	prp	_	4	PIV	_	_
+6	nosso	nosso	pron	pron-det	<poss|1P>|M|S	7	>N	_	_
+7	futebol	futebol	n	n	M|S	5	P<	_	_
+8	,	,	punc	punc	_	10	PUNC	_	_
+9	não	não	adv	adv	_	11	ADVL	_	_
+10	podemos	poder	v	v-fin	PR|1P|IND	0	STA	_	_
+11	dizer	dizer	v	v-inf	_	10	MV	_	_
+12	o	o	art	art	<artd>|M|S	13	>N	_	_
+13	mesmo	mesmo	pron	pron-det	<diff>|<KOMP>|M|S	11	ACC	_	_
+14	de	de	prp	prp	<sam->	11	PIV	_	_
+15	os	o	art	art	<-sam>|<artd>|M|P	17	>N	_	_
+16	nossos	nosso	pron	pron-det	<poss|1P>|M|P	17	>N	_	_
+17	árbitros	árbitro	n	n	M|P	14	P<	_	_
+18	,	,	punc	punc	_	17	PUNC	_	_
+19	aqui	aqui	adv	adv	_	20	ADVL	_	_
+20	representados	representar	v	v-pcp	M|P	17	N<PRED	_	_
+21	exatamente	exatamente	adv	adv	_	20	ADVL	_	_
+22	por	por	prp	prp	_	20	PASS	_	_
+23	Marsiglia	Marsiglia	prop	prop	M|S	22	P<	_	_
+24	.	.	punc	punc	_	10	PUNC	_	_
+
+
+1	Muitas	muito	pron	pron-det	<quant>|F|P	9	SUBJ	_	_
+2	de	de	prp	prp	<sam->	1	N<	_	_
+3	as	o	art	art	<-sam>|<artd>|F|P	4	>N	_	_
+4	prioridades	prioridade	n	n	F|P	2	P<	_	_
+5	de	de	prp	prp	<sam->	4	N<	_	_
+6	o	o	art	art	<-sam>|<artd>|M|S	8	>N	_	_
+7	novo	novo	adj	adj	M|S	8	>N	_	_
+8	governo	governo	n	n	M|S	5	P<	_	_
+9	coincidem	coincidir	v	v-fin	PR|3P|IND	0	STA	_	_
+10	com	com	prp	prp	_	9	PIV	_	_
+11	as	o	art	art	<artd>|F|P	12	>N	_	_
+12	prioridades	prioridade	n	n	F|P	10	P<	_	_
+13	de	de	prp	prp	<sam->	12	N<	_	_
+14	o	o	art	art	<-sam>|<artd>|M|S	15	>N	_	_
+15	PT	PT	prop	prop	M|S	13	P<	_	_
+16	.	.	punc	punc	_	9	PUNC	_	_
+
+
+1	Adoraria	adorar	v	v-fin	COND|1S	0	STA	_	_
+2	se	se	conj	conj-s	_	5	SUB	_	_
+3	vocês	você	pron	pron-pers	M/F|3P|NOM	5	SUBJ	_	_
+4	«	«	punc	punc	_	5	PUNC	_	_
+5	engordassem	engordar	v	v-fin	IMPF|3P|SUBJ	1	ACC	_	_
+6	»	»	punc	punc	_	5	PUNC	_	_
+7	um_pouco	um_pouco	adv	adv	<quant>	5	ADVL	_	_
+8	mais	mais	adv	adv	<quant>|<KOMP>	7	A<	_	_
+9	o	o	art	art	<artd>|M|S	10	>N	_	_
+10	Folhateen	Folhateen	prop	prop	M|S	5	ACC	_	_
+11	.	.	punc	punc	_	1	PUNC	_	_
+
+
+1	E	e	conj	conj-c	_	8	CO	_	_
+2	,	,	punc	punc	_	8	PUNC	_	_
+3	para	para	prp	prp	_	8	ADVL	_	_
+4	um	um	art	art	<arti>|M|S	5	>N	_	_
+5	efeito	efeito	n	n	M|S	3	P<	_	_
+6	extra	extra	adj	adj	M|S	5	N<	_	_
+7	,	,	punc	punc	_	8	PUNC	_	_
+8	cite	citar	v	v-fin	PR|1/3S|SUBJ	0	STA	_	_
+9	G._Love	G._Love	prop	prop	M|S	8	ACC	_	_
+10	and	and	conj	conj-c	<co-acc>	9	CO	_	_
+11	Special_Sauce	Special_Sauce	prop	prop	M|S	9	CJT	_	_
+12	.	.	punc	punc	_	8	PUNC	_	_
+
+
+1	Papa	papa	n	n	M|S	2	SUBJ	_	_
+2	indica	indicar	v	v-fin	PR|3S|IND	0	STA	_	_
+3	mulher	mulher	n	n	F|S	2	ACC	_	_
+4	para	para	prp	prp	_	2	PIV	_	_
+5	secretaria	secretaria	n	n	F|S	4	P<	_	_
+
+
+1	Pois_é	pois_é	in	in	_	6	ADVL	_	_
+2	,	,	punc	punc	_	6	PUNC	_	_
+3	Palmeiras	Palmeiras	prop	prop	M|S	6	SUBJ	_	_
+4	e	e	conj	conj-c	<co-subj>	3	CO	_	_
+5	Corinthians	Corinthians	prop	prop	M|S	3	CJT	_	_
+6	fazem	fazer	v	v-fin	PR|3P|IND	0	STA	_	_
+7	hoje	hoje	adv	adv	_	6	ADVL	_	_
+8	a	o	art	art	<artd>|F|S	9	>N	_	_
+9	finalíssima	finalíssima	n	n	F|S	6	ACC	_	_
+10	de	de	prp	prp	<sam->	9	N<	_	_
+11	o	o	art	art	<-sam>|<artd>|M|S	12	>N	_	_
+12	Brasileiro	brasileiro	n	n	<prop>|M|S	10	P<	_	_
+13	.	.	punc	punc	_	6	PUNC	_	_
+
+
+1	Não	não	adv	adv	_	3	ADVL	_	_
+2	me	eu	pron	pron-pers	<refl>|M/F|1S|ACC	3	ACC	_	_
+3	comprometa	comprometer	v	v-fin	PR|1S|SUBJ	0	STA	_	_
+
+
+1	A	o	art	art	<artd>|F|S	2	>N	_	_
+2	Otker	Otker	prop	prop	F|S	6	SUBJ	_	_
+3	e	e	conj	conj-c	<co-subj>	2	CO	_	_
+4	a	o	art	art	<artd>|F|S	5	>N	_	_
+5	Somel	Somel	prop	prop	F|S	2	CJT	_	_
+6	vão	ir	v	v-fin	PR|3P|IND	0	STA	_	_
+7	pedir	pedir	v	v-inf	_	6	MV	_	_
+8	contraprova	contraprova	n	n	F|S	7	ACC	_	_
+9	.	.	punc	punc	_	6	PUNC	_	_
+
+
+1	A	o	art	art	<artd>|F|S	2	>N	_	_
+2	ex-prefeita	ex-prefeita	n	n	F|S	4	SUBJ	_	_
+3	Luiza_Erundina	Luiza_Erundina	prop	prop	F|S	2	N<	_	_
+4	participa	participar	v	v-fin	PR|3S|IND	0	STA	_	_
+5	hoje	hoje	adv	adv	_	4	ADVL	_	_
+6	de	de	prp	prp	<sam->	4	PIV	_	_
+7	a	o	art	art	<-sam>|<artd>|F|S	8	>N	_	_
+8	divulgação	divulgação	n	n	F|S	6	P<	_	_
+9	de	de	prp	prp	_	8	N<	_	_
+10	um	um	art	art	<arti>|M|S	11	>N	_	_
+11	balanço	balanço	n	n	M|S	9	P<	_	_
+12	comparativo	comparativo	adj	adj	M|S	11	N<	_	_
+13	entre	entre	prp	prp	_	11	N<	_	_
+14	sua	seu	pron	pron-det	<poss|3S>|F|S	15	>N	_	_
+15	administração	administração	n	n	F|S	13	P<	_	_
+16	89	89	num	num	M|P	15	N<	_	_
+17	a	a	prp	prp	_	15	N<	_	_
+18	92	92	num	num	M|P	17	P<	_	_
+19	e	e	conj	conj-c	<co-prparg>	15	CO	_	_
+20	o	o	art	art	<artd>|M|S	22	>N	_	_
+21	primeiro	primeiro	adj	adj	<NUM-ord>|M|S	22	>N	_	_
+22	ano	ano	n	n	M|S	15	CJT	_	_
+23	de	de	prp	prp	<sam->	22	N<	_	_
+24	a	o	art	art	<-sam>|<artd>|F|S	25	>N	_	_
+25	gestão	gestão	n	n	F|S	23	P<	_	_
+26	Paulo_Maluf	Paulo_Maluf	prop	prop	M|S	25	N<	_	_
+27	a	a	prp	prp	<sam->	25	N<	_	_
+28	a	o	art	art	<-sam>|<artd>|F|S	29	>N	_	_
+29	frente	frente	n	n	F|S	27	P<	_	_
+30	de	de	prp	prp	<sam->	29	N<	_	_
+31	a	o	art	art	<-sam>|<artd>|F|S	32	>N	_	_
+32	Prefeitura	prefeitura	n	n	<prop>|F|S	30	P<	_	_
+33	de	de	prp	prp	_	32	N<	_	_
+34	São_Paulo	São_Paulo	prop	prop	M|S	33	P<	_	_
+35	.	.	punc	punc	_	4	PUNC	_	_
+
+
+1	Comentei	comentar	v	v-fin	PS|1S|IND	0	STA	_	_
+2	com	com	prp	prp	_	1	PIV	_	_
+3	minha	meu	pron	pron-det	<poss|1S>|F|S	4	>N	_	_
+4	amiga	amiga	n	n	F|S	2	P<	_	_
+5	espanhola	espanhol	adj	adj	F|S	4	N<	_	_
+6	,	,	punc	punc	_	4	PUNC	_	_
+7	Dolores_de_Pança	Dolores_de_Pança	prop	prop	F|S	4	APP	_	_
+8	;	;	punc	punc	_	4	PUNC	_	_
+9	a	o	art	art	<artd>|F|S	10	>N	_	_
+10	profusão	profusão	n	n	F|S	1	ACC	_	_
+11	de	de	prp	prp	_	10	N<	_	_
+12	beijos	beijo	n	n	M|P	11	P<	_	_
+13	melados	melar	v	v-pcp	M|P	12	N<	_	_
+14	que	que	pron	pron-indp	<rel>|M|P	15	SUBJ	_	_
+15	massacraram	massacrar	v	v-fin	PS/MQP|3P|IND	12	N<	_	_
+16	minhas	meu	pron	pron-det	<poss|1S>|F|P	18	>N	_	_
+17	aveludadas	aveludar	v	v-pcp	F|P	18	>N	_	_
+18	bochechas	bochecha	n	n	F|P	15	ACC	_	_
+19	em	em	prp	prp	<sam->	15	ADVL	_	_
+20	a	o	art	art	<-sam>|<artd>|F|S	21	>N	_	_
+21	Bienal	bienal	n	n	<prop>|F|S	19	P<	_	_
+22	.	.	punc	punc	_	1	PUNC	_	_
+
+1	Claras	claro	adj	adj	F|P	2	>N	_	_
+2	evidências	evidência	n	n	F|P	0	UTT	_	_
+
+
+1	A	o	art	art	<artd>|F|S	2	>N	_	_
+2	menina	menina	n	n	F|S	3	SUBJ	_	_
+3	morreu	morrer	v	v-fin	PS|3S|IND	0	STA	_	_
+4	em	em	prp	prp	<sam->	3	ADVL	_	_
+5	a	o	art	art	<-sam>|<artd>|F|S	6	>N	_	_
+6	hora	hora	n	n	F|S	4	P<	_	_
+7	.	.	punc	punc	_	3	PUNC	_	_
+
+
+1	«	«	punc	punc	_	3	PUNC	_	_
+2	Eles	eles	pron	pron-pers	M|3P|NOM	3	SUBJ	_	_
+3	são	ser	v	v-fin	PR|3P|IND	0	STA	_	_
+4	a	o	art	art	<artd>|F|S	5	>N	_	_
+5	razão	razão	n	n	F|S	3	SC	_	_
+6	de	de	prp	prp	_	5	N<	_	_
+7	tudo_o_que	tudo_o_que	pron	pron-indp	<rel>|<quant>|M|S	8	ACC	_	_
+8	faço	fazer	v	v-fin	PR|1S|IND	6	P<	_	_
+9	,	,	punc	punc	_	6	PUNC	_	_
+10	de	de	prp	prp	_	6	CJT	_	_
+11	tudo	tudo	pron	pron-indp	<quant>|M|S	12	>N	_	_
+12	aquilo	aquilo	pron	pron-indp	<dem>|M|S	10	P<	_	_
+13	em	em	prp	prp	_	12	N<	_	_
+14	que	que	pron	pron-indp	<rel>|M|S	15	ACC	_	_
+15	acredito	acreditar	v	v-fin	PR|1S|IND	13	P<	_	_
+16	»	»	punc	punc	_	3	PUNC	_	_
+17	,	,	punc	punc	_	3	PUNC	_	_
+18	disse	dizer	v	v-fin	PS|3S|IND	3	P	_	_
+19	,	,	punc	punc	_	3	PUNC	_	_
+20	com	com	prp	prp	_	3	ADVL	_	_
+21	grandes	grande	adj	adj	M|P	22	>N	_	_
+22	espaços	espaço	n	n	M|P	20	P<	_	_
+23	entre	entre	prp	prp	_	22	N<	_	_
+24	as	o	art	art	<artd>|F|P	25	>N	_	_
+25	palavras	palavra	n	n	F|P	23	P<	_	_
+26	.	.	punc	punc	_	3	PUNC	_	_
+
+
+1	Com	com	prp	prp	_	14	ADVL	_	_
+2	a	o	art	art	<artd>|F|S	3	>N	_	_
+3	Servaz	Servaz	prop	prop	F|S	1	P<	_	_
+4	,	,	punc	punc	_	14	PUNC	_	_
+5	segundo	segundo	prp	prp	<rel>|<ks>	14	ADVL	_	_
+6	o	o	art	art	<artd>|M|S	7	>N	_	_
+7	documento	documento	n	n	M|S	5	P<	_	_
+8	obtido	obter	v	v-pcp	M|S	7	N<	_	_
+9	por	por	prp	prp	<sam->	8	PASS	_	_
+10	a	o	art	art	<-sam>|<artd>|F|S	11	>N	_	_
+11	Folha	folha	n	n	<prop>|F|S	9	P<	_	_
+12	a	o	art	art	<artd>|F|S	13	>N	_	_
+13	Odebrecht	Odebrecht	prop	prop	F|S	14	SUBJ	_	_
+14	acerta	acertar	v	v-fin	PR|3S|IND	0	STA	_	_
+15	o	o	art	art	<artd>|M|S	16	>N	_	_
+16	pagamento	pagamento	n	n	M|S	14	ACC	_	_
+17	de	de	prp	prp	_	16	N<	_	_
+18	US$	US$	n	n	M|P	17	P<	_	_
+19	110	110	num	num	<card>|M|P	20	>N	_	_
+20	mil	mil	num	num	<card>|M|P	18	N<	_	_
+21	mais	mais	adv	adv	<kc>	18	CO	_	_
+22	uma	uma	num	num	<card>|F|S	23	>N	_	_
+23	porcentagem	porcentagem	n	n	F|S	18	CJT	_	_
+24	referente_a	referente_a	prp	prp	_	23	N<	_	_
+25	obras	obra	n	n	F|P	24	P<	_	_
+26	de	de	prp	prp	_	25	N<	_	_
+27	abastecimento	abastecimento	n	n	M|S	26	P<	_	_
+28	de	de	prp	prp	_	27	N<	_	_
+29	água	água	n	n	F|S	28	P<	_	_
+30	em	em	prp	prp	_	14	ADVL	_	_
+31	Roraima	Roraima	prop	prop	F|S	30	P<	_	_
+32	,	,	punc	punc	_	14	PUNC	_	_
+33	ainda	ainda	adv	adv	_	14	ADVL	_	_
+34	a	a	prp	prp	_	33	A<	_	_
+35	serem	ser	v	v-inf	3P	34	P<	_	_
+36	licitadas	licitar	v	v-pcp	F|P	35	MV	_	_
+37	.	.	punc	punc	_	14	PUNC	_	_
+
+
+1	Liberdade	liberdade	n	n	F|S	0	UTT	_	_
+2	sindical	sindical	adj	adj	F|S	1	N<	_	_
+
+
+1	As	o	art	art	<artd>|F|P	2	>N	_	_
+2	taxas	taxa	n	n	F|P	9	SUBJ	_	_
+3	de	de	prp	prp	_	2	N<	_	_
+4	juros	juro	n	n	M|P	3	P<	_	_
+5	equivalentes	equivalente	adj	adj	M|P	4	N<	_	_
+6	de	de	prp	prp	<sam->	4	N<	_	_
+7	os	o	art	art	<-sam>|<artd>|M|P	8	>N	_	_
+8	CDBs	CDBs	prop	prop	M|P	6	P<	_	_
+9	diminuíram	diminuir	v	v-fin	PS/MQP|3P|IND	0	STA	_	_
+10	2,31	2,31	num	num	<card>|M|P	11	>N	_	_
+11	pontos	ponto	n	n	M|P	9	ACC	_	_
+12	percentuais	percentual	adj	adj	M|P	11	N<	_	_
+13	em_relação_a	em_relação_a	prp	prp	<sam->	9	ADVL	_	_
+14	a	o	art	art	<artd>|<-sam>|F|S	15	>N	_	_
+15	média	média	n	n	F|S	13	P<	_	_
+16	de	de	prp	prp	<sam->	15	N<	_	_
+17	a	o	art	art	<-sam>|<artd>|F|S	19	>N	_	_
+18	última	último	adj	adj	<NUM-ord>|F|S	19	>N	_	_
+19	segunda-feira	segunda-feira	n	n	F|S	16	P<	_	_
+20	.	.	punc	punc	_	9	PUNC	_	_
+
+
+1	Peixe	peixe	n	n	M|S	2	SUBJ	_	_
+2	passou	passar	v	v-fin	PS|3S|IND	0	STA	_	_
+3	a	a	prp	prp	_	2	PRT-AUX<	_	_
+4	ter	ter	v	v-inf	_	2	MV	_	_
+5	gosto	gosto	n	n	M|S	4	ACC	_	_
+6	de	de	prp	prp	_	5	N<	_	_
+7	carne	carne	n	n	F|S	6	P<	_	_
+8	para	para	prp	prp	_	4	ADVL	_	_
+9	mim	eu	pron	pron-pers	M|1S|PIV	8	P<	_	_
+10	e	e	conj	conj-c	<co-vfin>|<co-fmc>	2	CO	_	_
+11	uma	uma	num	num	<card>|F|S	12	>N	_	_
+12	noite	noite	n	n	F|S	21	ADVL	_	_
+13	de	de	prp	prp	<sam->	12	N<	_	_
+14	estas	este	pron	pron-det	<-sam>|<dem>|F|P	13	P<	_	_
+15	,	,	punc	punc	_	21	PUNC	_	_
+16	em	em	prp	prp	<sam->	21	ADVL	_	_
+17	o	o	art	art	<-sam>|<artd>|M|S	18	>N	_	_
+18	Rodeio	rodeio	n	n	<prop>|M|S	16	P<	_	_
+19	,	,	punc	punc	_	21	PUNC	_	_
+20	eu	eu	pron	pron-pers	M|1S|NOM	21	SUBJ	_	_
+21	confundi	confundir	v	v-fin	PS|1S|IND	2	CJT	_	_
+22	salsicha	salsicha	n	n	F|S	21	ACC	_	_
+23	caseira	caseiro	adj	adj	F|S	22	N<	_	_
+24	com	com	prp	prp	_	21	PIV	_	_
+25	frango	frango	n	n	M|S	24	P<	_	_
+26	kebab	kebab	n	n	M|S	25	N<	_	_
+27	.	.	punc	punc	_	2	PUNC	_	_
+
+
+1	A	o	art	art	<artd>|F|S	2	>N	_	_
+2	reunião	reunião	n	n	F|S	3	SUBJ	_	_
+3	terminou	terminar	v	v-fin	PS|3S|IND	0	STA	_	_
+4	ontem	ontem	adv	adv	_	3	ADVL	_	_
+5	em	em	prp	prp	_	3	ADVL	_	_
+6	Budapeste	Budapeste	prop	prop	M|S	5	P<	_	_
+7	.	.	punc	punc	_	3	PUNC	_	_
+
+
+1	Mas	mas	conj	conj-c	_	14	CO	_	_
+2	a_bordo	a_bordo	adv	adv	_	14	ADVL	_	_
+3	de	de	prp	prp	_	2	A<	_	_
+4	um	um	art	art	<arti>|M|S	6	>N	_	_
+5	'	'	punc	punc	_	6	PUNC	_	_
+6	cadillac	cadillac	n	n	M|S	3	P<	_	_
+7	'	'	punc	punc	_	6	PUNC	_	_
+8	preto	preto	adj	adj	M|S	6	N<	_	_
+9	conversível	conversível	adj	adj	M|S	6	N<	_	_
+10	,	,	punc	punc	_	14	PUNC	_	_
+11	o	o	art	art	<artd>|M|S	12	>N	_	_
+12	presidente	presidente	n	n	M|S	14	SUBJ	_	_
+13	Menem	Menem	prop	prop	M|S	12	N<	_	_
+14	atravessou	atravessar	v	v-fin	PS|3S|IND	0	STA	_	_
+15	a	o	art	art	<artd>|F|S	16	>N	_	_
+16	pista	pista	n	n	F|S	14	ACC	_	_
+17	de	de	prp	prp	<sam->	16	N<	_	_
+18	o	o	art	art	<-sam>|<artd>|M|S	19	>N	_	_
+19	parque	parque	n	n	M|S	17	P<	_	_
+20	de	de	prp	prp	<sam->	19	N<	_	_
+21	a	o	art	art	<-sam>|<artd>|F|S	22	>N	_	_
+22	Sociedade_Rural_Argentina	Sociedade_Rural_Argentina	prop	prop	F|S	20	P<	_	_
+23	sob	sob	prp	prp	_	14	ADVL	_	_
+24	os	o	art	art	<artd>|M|P	25	>N	_	_
+25	aplausos	aplauso	n	n	M|P	23	P<	_	_
+26	de	de	prp	prp	<sam->	25	N<	_	_
+27	a	o	art	art	<-sam>|<artd>|F|S	28	>N	_	_
+28	platéia	platéia	n	n	F|S	26	P<	_	_
+29	de	de	prp	prp	_	28	N<	_	_
+30	cerca_de	cerca_de	adv	adv	_	33	>N	_	_
+31	10	10	num	num	<card>|M|P	33	>N	_	_
+32	mil	mil	num	num	<card>|M|P	33	>N	_	_
+33	agricultores	agricultor	n	n	M|P	29	P<	_	_
+34	.	.	punc	punc	_	14	PUNC	_	_
+
+
+1	Romário	Romário	prop	prop	M|S	2	SUBJ	_	_
+2	era	ser	v	v-fin	IMPF|3S|IND	14	ACC	_	_
+3	querido	querer	v	v-pcp	M|S	2	SC	_	_
+4	,	,	punc	punc	_	2	PUNC	_	_
+5	mas	mas	conj	conj-c	<co-vfin>	2	CO	_	_
+6	em	em	prp	prp	_	11	ADVL	_	_
+7	certos	certos	pron	pron-det	<quant>|M|P	8	>N	_	_
+8	bares	bar	n	n	M|P	6	P<	_	_
+9	ele	ele	pron	pron-pers	M|3S|NOM	11	SUBJ	_	_
+10	não	não	adv	adv	_	11	ADVL	_	_
+11	entrava	entravar	v	v-fin	PR|3S|IND	2	CJT	_	_
+12	»	»	punc	punc	_	14	PUNC	_	_
+13	,	,	punc	punc	_	14	PUNC	_	_
+14	diz	dizer	v	v-fin	PR|3S|IND	0	STA	_	_
+15	um	um	art	art	<arti>|M|S	16	>N	_	_
+16	taxista	taxista	n	n	M|S	14	SUBJ	_	_
+17	.	.	punc	punc	_	14	PUNC	_	_
+
+
+1	Quero	querer	v	v-fin	PR|1S|IND	0	STA	_	_
+2	ser	ser	v	v-inf	_	1	ACC	_	_
+3	uma	uma	num	num	<card>|F|S	2	SC	_	_
+4	de	de	prp	prp	<sam->	3	N<	_	_
+5	as	o	art	art	<-sam>|<artd>|F|P	7	>N	_	_
+6	melhores	bom	adj	adj	<KOMP>|<SUP>|F|P	7	>N	_	_
+7	atrizes	atriz	n	n	F|P	4	P<	_	_
+8	de	de	prp	prp	<sam->	7	N<	_	_
+9	o	o	art	art	<-sam>|<artd>|M|S	10	>N	_	_
+10	mundo	mundo	n	n	M|S	8	P<	_	_
+11	.	.	punc	punc	_	1	PUNC	_	_
+
+
+1	Em	em	prp	prp	<sam->	7	ADVL	_	_
+2	o	o	art	art	<-sam>|<artd>|M|S	3	>N	_	_
+3	PPR	PPR	prop	prop	M|S	1	P<	_	_
+4	,	,	punc	punc	_	7	PUNC	_	_
+5	a	o	art	art	<artd>|F|S	6	>N	_	_
+6	discussão	discussão	n	n	F|S	7	SUBJ	_	_
+7	será	ser	v	v-fin	FUT|3S|IND	0	STA	_	_
+8	sobre	sobre	prp	prp	_	7	SC	_	_
+9	a	o	art	art	<artd>|F|S	10	>N	_	_
+10	política	política	n	n	F|S	8	P<	_	_
+11	de	de	prp	prp	_	10	N<	_	_
+12	alianças	aliança	n	n	F|P	11	P<	_	_
+13	e	e	conj	conj-c	<co-prparg>	10	CO	_	_
+14	se	se	conj	conj-s	_	16	SUB	_	_
+15	ela	ela	pron	pron-pers	F|3S|NOM	16	SUBJ	_	_
+16	inclui	incluir	v	v-fin	PR|3S|IND	10	CJT	_	_
+17	o	o	art	art	<artd>|M|S	18	>N	_	_
+18	PSDB	pSDB	n	n	<prop>|M|S	16	ACC	_	_
+19	,	,	punc	punc	_	18	PUNC	_	_
+20	além_de	além_de	prp	prp	<sam->|<co-acc>	18	CO	_	_
+21	os	o	art	art	<artd>|<-sam>|M|P	23	>N	_	_
+22	novos	novo	adj	adj	M|P	23	>N	_	_
+23	candidatos	candidato	n	n	M|P	18	CJT	_	_
+24	de	de	prp	prp	<sam->	23	N<	_	_
+25	o	o	art	art	<-sam>|<artd>|M|S	26	>N	_	_
+26	partido	partido	n	n	M|S	24	P<	_	_
+27	a	a	prp	prp	_	26	N<	_	_
+28	presidente	presidente	n	n	M|S	27	P<	_	_
+29	.	.	punc	punc	_	7	PUNC	_	_
+
+
+1	Fantasia	fantasia	n	n	F|S	0	UTT	_	_
+2	infantil	infantil	adj	adj	F|S	1	N<	_	_
+3	:	:	punc	punc	_	1	PUNC	_	_
+
+
+1	Não	não	adv	adv	_	2	ADVL	_	_
+2	foi	ser	v	v-fin	PS|3S|IND	0	STA	_	_
+3	o	o	art	art	<artd>|M|S	4	>N	_	_
+4	único	único	adj	adj	<n>|M|S	2	SC	_	_
+5	.	.	punc	punc	_	2	PUNC	_	_
+
+
+1	Quem	quem	pron	pron-indp	<rel>|M/F|S	2	SUBJ	_	_
+2	experimenta	experimentar	v	v-fin	PR|3S|IND	10	SUBJ	_	_
+3	a	o	art	art	<artd>|F|S	5	>N	_	_
+4	última	último	adj	adj	<NUM-ord>|F|S	5	>N	_	_
+5	versão	versão	n	n	F|S	2	ACC	_	_
+6	(	(	punc	punc	_	5	PUNC	_	_
+7	safra	safra	n	n	F|S	5	N<PRED	_	_
+8	91	91	num	num	<card>|M|P	7	N<	_	_
+9	)	)	punc	punc	_	5	PUNC	_	_
+10	descobrirá	descobrir	v	v-fin	FUT|3S|IND	0	STA	_	_
+11	um	um	art	art	<arti>|M|S	12	>N	_	_
+12	vinho	vinho	n	n	M|S	10	ACC	_	_
+13	novo	novo	adj	adj	M|S	12	N<	_	_
+14	ainda	ainda	adv	adv	_	13	A<	_	_
+15	,	,	punc	punc	_	12	PUNC	_	_
+16	adstringente	adstringente	adj	adj	M|S	12	N<PRED	_	_
+17	,	,	punc	punc	_	16	PUNC	_	_
+18	mas	mas	conj	conj-c	<co-pred>	16	CO	_	_
+19	de	de	prp	prp	_	16	CJT	_	_
+20	aroma	aroma	n	n	M|S	19	P<	_	_
+21	e	e	conj	conj-c	_	20	CO	_	_
+22	sabor	sabor	n	n	M|S	20	CJT	_	_
+23	intensos	intenso	adj	adj	M|P	20	N<	_	_
+24	.	.	punc	punc	_	10	PUNC	_	_
+
+
+1	Enquanto	enquanto	adv	adv	<rel>|<ks>	2	ADVL	_	_
+2	é	ser	v	v-fin	PR|3S|IND	0	STA	_	_
+3	tempo	tempo	n	n	M|S	2	SC	_	_
+
+
+1	Os	o	art	art	<artd>|M|P	2	>N	_	_
+2	níveis	nível	n	n	M|P	6	SUBJ	_	_
+3	de	de	prp	prp	<sam->	2	N<	_	_
+4	os	o	art	art	<-sam>|<artd>|M|P	5	>N	_	_
+5	depósitos	depósito	n	n	M|P	3	P<	_	_
+6	aumentaram	aumentar	v	v-fin	PS/MQP|3P|IND	0	STA	_	_
+7	440	440	num	num	<card>|M|P	8	>N	_	_
+8	%	%	n	n	M|P	6	ACC	_	_
+9	,	,	punc	punc	_	6	PUNC	_	_
+10	em	em	prp	prp	_	6	ADVL	_	_
+11	1993	1993	num	num	<card>|M|S	10	P<	_	_
+12	,	,	punc	punc	_	6	PUNC	_	_
+13	basicamente	basicamente	adv	adv	_	14	>A	_	_
+14	em_função_de	em_função_de	prp	prp	_	6	ADVL	_	_
+15	depósitos	depósito	n	n	M|P	14	P<	_	_
+16	interfinanceiros	interfinanceiro	adj	adj	<DERP>|M|P	15	N<	_	_
+17	e	e	conj	conj-c	<co-postnom>	16	CO	_	_
+18	a	a	prp	prp	_	16	CJT	_	_
+19	prazo	prazo	n	n	M|S	18	P<	_	_
+20	.	.	punc	punc	_	6	PUNC	_	_
+
+
+1	A	o	art	art	<artd>|F|S	2	>N	_	_
+2	cantora	cantora	n	n	F|S	7	SUBJ	_	_
+3	e	e	conj	conj-c	_	2	CO	_	_
+4	violinista	violinista	n	n	F|S	2	CJT	_	_
+5	Meca_Vargas	Meca_Vargas	prop	prop	F|S	2	N<	_	_
+6	não	não	adv	adv	_	7	ADVL	_	_
+7	faz	fazer	v	v-fin	PR|3S|IND	0	STA	_	_
+8	coro	coro	n	n	M|S	7	ACC	_	_
+9	com	com	prp	prp	_	8	N<	_	_
+10	os	o	art	art	<artd>|M|P	11	>N	_	_
+11	contentes	contente	adj	adj	<n>|<Eg>|M|P	9	P<	_	_
+12	com	com	prp	prp	_	11	N<	_	_
+13	o	o	art	art	<artd>|M|S	14	>N	_	_
+14	computador	computador	n	n	M|S	12	P<	_	_
+15	.	.	punc	punc	_	7	PUNC	_	_
+
+
+1	Essas	esse	pron	pron-det	<dem>|F|P	2	>N	_	_
+2	dificuldades	dificuldade	n	n	F|P	13	SUBJ	_	_
+3	,	,	punc	punc	_	2	PUNC	_	_
+4	que	que	pron	pron-indp	<rel>|F|P	5	SUBJ	_	_
+5	surgiram	surgir	v	v-fin	PS/MQP|3P|IND	2	N<PRED	_	_
+6	desde	desde	prp	prp	_	5	ADVL	_	_
+7	o	o	art	art	<artd>|M|S	8	>N	_	_
+8	lançamento	lançamento	n	n	M|S	6	P<	_	_
+9	de	de	prp	prp	<sam->	8	N<	_	_
+10	a	o	art	art	<-sam>|<artd>|F|S	11	>N	_	_
+11	idéia	idéia	n	n	F|S	9	P<	_	_
+12	,	,	punc	punc	_	2	PUNC	_	_
+13	estimularam	estimular	v	v-fin	PS/MQP|3P|IND	0	STA	_	_
+14	economistas	economista	n	n	M|P	13	ACC	_	_
+15	e	e	conj	conj-c	<co-acc>	14	CO	_	_
+16	governo	governo	n	n	M|S	14	CJT	_	_
+17	a	a	prp	prp	_	13	PIV	_	_
+18	buscar	buscar	v	v-inf	_	17	P<	_	_
+19	caminhos	caminho	n	n	M|P	18	ACC	_	_
+20	mais	mais	adv	adv	<quant>|<KOMP>	21	>A	_	_
+21	rápidos	rápido	adj	adj	M|P	19	N<	_	_
+22	.	.	punc	punc	_	13	PUNC	_	_
+
+
+1	O	o	art	art	<artd>|M|S	2	>N	_	_
+2	produtor	produtor	n	n	M|S	3	SUBJ	_	_
+3	iniciou	iniciar	v	v-fin	PS|3S|IND	0	STA	_	_
+4	a	o	art	art	<artd>|F|S	5	>N	_	_
+5	colheita	colheita	n	n	F|S	3	ACC	_	_
+6	,	,	punc	punc	_	3	PUNC	_	_
+7	em	em	prp	prp	_	3	ADVL	_	_
+8	fevereiro	fevereiro	n	n	M|S	7	P<	_	_
+9	passado	passar	v	v-pcp	M|S	8	N<	_	_
+10	,	,	punc	punc	_	3	PUNC	_	_
+11	de	de	prp	prp	_	5	N<	_	_
+12	170	170	num	num	<card>|M|P	13	>N	_	_
+13	hectares	hectare	n	n	M|P	11	P<	_	_
+14	de	de	prp	prp	_	13	N<	_	_
+15	amendoim	amendoim	n	n	M|S	14	P<	_	_
+16	e	e	conj	conj-c	<co-prparg>	13	CO	_	_
+17	240	240	num	num	<card>|M|P	18	>N	_	_
+18	hectares	hectare	n	n	M|P	13	CJT	_	_
+19	de	de	prp	prp	_	18	N<	_	_
+20	soja	soja	n	n	F|S	19	P<	_	_
+21	.	.	punc	punc	_	3	PUNC	_	_
+
+
+1	O	o	art	art	<artd>|M|S	2	>N	_	_
+2	mar	mar	n	n	M|S	3	SUBJ	_	_
+3	é	ser	v	v-fin	PR|3S|IND	0	STA	_	_
+4	cristalino	cristalino	adj	adj	M|S	3	SC	_	_
+5	.	.	punc	punc	_	3	PUNC	_	_
+
+
+1	Tomado	tomar	v	v-pcp	M|S	5	PRED	_	_
+2	de_surpresa	de_surpresa	adv	adv	_	1	ADVL	_	_
+3	,	,	punc	punc	_	5	PUNC	_	_
+4	Santana	Santana	prop	prop	M|S	5	SUBJ	_	_
+5	deu	dar	v	v-fin	PS|3S|IND	0	STA	_	_
+6	um	um	art	art	<arti>|M|S	7	>N	_	_
+7	sorriso	sorriso	n	n	M|S	5	ACC	_	_
+8	amarelo	amarelo	adj	adj	M|S	7	N<	_	_
+9	,	,	punc	punc	_	5	PUNC	_	_
+10	mas	mas	conj	conj-c	_	5	CO	_	_
+11	logo	logo	adv	adv	<kc>	12	ADVL	_	_
+12	recuperou-	recuperar	v	v-fin	<hyfen>|PS|3S|IND	5	CJT	_	_
+13	se	se	pron	pron-pers	<refl>|M|3S|ACC	12	ACC	_	_
+14	:	:	punc	punc	_	5	PUNC	_	_
+
+
+1	Em	em	prp	prp	<sam->	7	ADVL	_	_
+2	a	o	art	art	<-sam>|<artd>|F|S	3	>N	_	_
+3	noite	noite	n	n	F|S	1	P<	_	_
+4	de	de	prp	prp	_	3	N<	_	_
+5	ontem	ontem	adv	adv	_	4	P<	_	_
+6	,	,	punc	punc	_	7	PUNC	_	_
+7	havia	haver	v	v-fin	IMPF|3S|IND	0	STA	_	_
+8	cerca_de	cerca_de	adv	adv	_	10	>N	_	_
+9	3.000	3.000	num	num	<card>|F|P	10	>N	_	_
+10	pessoas	pessoa	n	n	F|P	7	ACC	_	_
+11	retidas	reter	v	v-pcp	F|P	10	N<	_	_
+12	em	em	prp	prp	<sam->	11	ADVL	_	_
+13	o	o	art	art	<-sam>|<artd>|M|S	14	>N	_	_
+14	aeroporto	aeroporto	n	n	M|S	12	P<	_	_
+15	de	de	prp	prp	_	14	N<	_	_
+16	Ezeiza	Ezeiza	prop	prop	F|S	15	P<	_	_
+17	,	,	punc	punc	_	16	PUNC	_	_
+18	o	o	art	art	<artd>|M|S	19	>N	_	_
+19	principal	principal	adj	adj	<n>|<SUP>|M|S	16	N<PRED	_	_
+20	de	de	prp	prp	_	19	N<	_	_
+21	Buenos_Aires	Buenos_Aires	prop	prop	M|S	20	P<	_	_
+22	.	.	punc	punc	_	7	PUNC	_	_
+
+
+1	As	o	art	art	<artd>|F|P	2	>N	_	_
+2	vitrinas	vitrina	n	n	F|P	4	SUBJ	_	_
+3	sempre	sempre	adv	adv	_	4	ADVL	_	_
+4	guardam	guardar	v	v-fin	PR|3P|IND	0	STA	_	_
+5	surpresas	surpresa	n	n	F|P	4	ACC	_	_
+6	,	,	punc	punc	_	4	PUNC	_	_
+7	variando	variar	v	v-ger	_	4	ADVL	_	_
+8	desde	desde	prp	prp	_	7	ADVL	_	_
+9	o	o	art	art	<artd>|M|S	11	>N	_	_
+10	caro	caro	adj	adj	M|S	11	>N	_	_
+11	refinamento	refinamento	n	n	M|S	8	P<	_	_
+12	de	de	prp	prp	<sam->	11	N<	_	_
+13	a	o	art	art	<-sam>|<artd>|F|S	14	>N	_	_
+14	avenida	avenida	n	n	F|S	12	P<	_	_
+15	Montaigne	Montaigne	prop	prop	F|S	14	N<	_	_
+16	(	(	punc	punc	_	14	PUNC	_	_
+17	que	que	pron	pron-indp	<rel>|F|S	18	SUBJ	_	_
+18	concentra	concentrar	v	v-fin	PR|3S|IND	14	N<PRED	_	_
+19	a	o	art	art	<artd>|F|S	21	>N	_	_
+20	alta	alto	adj	adj	F|S	21	>N	_	_
+21	costura	costura	n	n	F|S	18	ACC	_	_
+22	,	,	punc	punc	_	18	PUNC	_	_
+23	em	em	prp	prp	<sam->	18	ADVL	_	_
+24	o	o	art	art	<-sam>|<artd>|M|S	25	>N	_	_
+25	Champs_Elysèes	Champs_Elysèes	prop	prop	M|S	23	P<	_	_
+26	)	)	punc	punc	_	14	PUNC	_	_
+27	até	até	prp	prp	_	8	?	_	_
+28	as	o	art	art	<artd>|F|P	29	>N	_	_
+29	pechinchas	pechincha	n	n	F|P	27	P<	_	_
+30	em	em	prp	prp	<sam->	29	N<	_	_
+31	as	o	art	art	<-sam>|<artd>|F|P	33	>N	_	_
+32	pequenas	pequeno	adj	adj	F|P	33	>N	_	_
+33	lojas	loja	n	n	F|P	30	P<	_	_
+34	espalhadas	espalhar	v	v-pcp	F|P	33	N<	_	_
+35	por	por	prp	prp	<sam->	34	ADVL	_	_
+36	a	o	art	art	<-sam>|<artd>|F|S	37	>N	_	_
+37	cidade	cidade	n	n	F|S	35	P<	_	_
+38	e	e	conj	conj-c	<co-advl>	35	CO	_	_
+39	em	em	prp	prp	<sam->	35	CJT	_	_
+40	os	o	art	art	<-sam>|<artd>|M|P	41	>N	_	_
+41	magazines	magazine	n	n	M|P	39	P<	_	_
+42	.	.	punc	punc	_	4	PUNC	_	_
+
+
+1	As	o	art	art	<artd>|F|P	2	>N	_	_
+2	vitrinas	vitrina	n	n	F|P	4	SUBJ	_	_
+3	sempre	sempre	adv	adv	_	4	ADVL	_	_
+4	guardam	guardar	v	v-fin	PR|3P|IND	0	STA	_	_
+5	surpresas	surpresa	n	n	F|P	4	ACC	_	_
+6	,	,	punc	punc	_	4	PUNC	_	_
+7	variando	variar	v	v-ger	_	4	ADVL	_	_
+8	desde	desde	prp	prp	_	7	ADVL	_	_
+9	o	o	art	art	<artd>|M|S	11	>N	_	_
+10	caro	caro	adj	adj	M|S	11	>N	_	_
+11	refinamento	refinamento	n	n	M|S	8	P<	_	_
+12	de	de	prp	prp	<sam->	11	N<	_	_
+13	a	o	art	art	<-sam>|<artd>|F|S	14	>N	_	_
+14	avenida	avenida	n	n	F|S	12	P<	_	_
+15	Montaigne	Montaigne	prop	prop	F|S	14	N<	_	_
+16	(	(	punc	punc	_	14	PUNC	_	_
+17	que	que	pron	pron-indp	<rel>|F|S	18	SUBJ	_	_
+18	concentra	concentrar	v	v-fin	PR|3S|IND	14	N<PRED	_	_
+19	a	o	art	art	<artd>|F|S	21	>N	_	_
+20	alta	alto	adj	adj	F|S	21	>N	_	_
+21	costura	costura	n	n	F|S	18	ACC	_	_
+22	,	,	punc	punc	_	18	PUNC	_	_
+23	em	em	prp	prp	<sam->	18	ADVL	_	_
+24	o	o	art	art	<-sam>|<artd>|M|S	25	>N	_	_
+25	Champs_Elysèes	Champs_Elysèes	prop	prop	M|S	23	P<	_	_
+26	)	)	punc	punc	_	14	PUNC	_	_
+27	até	até	prp	prp	_	8	?	_	_
+28	as	o	art	art	<artd>|F|P	29	>N	_	_
+29	pechinchas	pechincha	n	n	F|P	27	P<	_	_
+30	em	em	prp	prp	<sam->	29	N<	_	_
+31	as	o	art	art	<-sam>|<artd>|F|P	33	>N	_	_
+32	pequenas	pequeno	adj	adj	F|P	33	>N	_	_
+33	lojas	loja	n	n	F|P	30	P<	_	_
+34	espalhadas	espalhar	v	v-pcp	F|P	33	N<	_	_
+35	por	por	prp	prp	<sam->	34	ADVL	_	_
+36	a	o	art	art	<-sam>|<artd>|F|S	37	>N	_	_
+37	cidade	cidade	n	n	F|S	35	P<	_	_
+38	e	e	conj	conj-c	<co-advl>	35	CO	_	_
+39	em	em	prp	prp	<sam->	35	CJT	_	_
+40	os	o	art	art	<-sam>|<artd>|M|P	41	>N	_	_
+41	magazines	magazine	n	n	M|P	39	P<	_	_
+42	.	.	punc	punc	_	4	PUNC	_	_
+
+
+1	A	o	art	art	<artd>|F|S	2	>N	_	_
+2	reunião	reunião	n	n	F|S	5	SUBJ	_	_
+3	de	de	prp	prp	_	2	N<	_	_
+4	bispos	bispo	n	n	M|P	3	P<	_	_
+5	discutirá	discutir	v	v-fin	FUT|3S|IND	0	STA	_	_
+6	a	o	art	art	<artd>|F|S	7	>N	_	_
+7	vida	vida	n	n	F|S	5	ACC	_	_
+8	de	de	prp	prp	_	7	N<	_	_
+9	padres	padre	n	n	M|P	8	P<	_	_
+10	e	e	conj	conj-c	<co-prparg>	9	CO	_	_
+11	freiras	freira	n	n	F|P	9	CJT	_	_
+12	.	.	punc	punc	_	5	PUNC	_	_
+
+
+1	Enquanto	enquanto	adv	adv	<rel>|<ks>	3	ADVL	_	_
+2	Gloria_Pires	Gloria_Pires	prop	prop	F|S	3	SUBJ	_	_
+3	ficou	ficar	v	v-fin	PS|3S|IND	14	ADVL	_	_
+4	nervosa	nervoso	adj	adj	F|S	3	SC	_	_
+5	em	em	prp	prp	_	3	ADVL	_	_
+6	sua	seu	pron	pron-det	<poss|3S>|F|S	7	>N	_	_
+7	estréia	estréia	n	n	F|S	5	P<	_	_
+8	como	como	adv	adv	<rel>|<prp>	3	ADVL	_	_
+9	modette	modette	n	n	F|S	8	SUBJ	_	_
+10	,	,	punc	punc	_	14	PUNC	_	_
+11	o	o	art	art	<artd>|M|S	12	>N	_	_
+12	marido	marido	n	n	M|S	14	SUBJ	_	_
+13	Orlando_Moraes	Orlando_Moraes	prop	prop	M|S	12	N<	_	_
+14	amou	amar	v	v-fin	PS|3S|IND	0	STA	_	_
+15	e	e	conj	conj-c	_	14	CO	_	_
+16	pediu	pedir	v	v-fin	PS|3S|IND	14	CJT	_	_
+17	bis	bis	in	in	_	16	ACC	_	_
+18	.	.	punc	punc	_	14	PUNC	_	_
+
+
+1	Argentina	Argentina	prop	prop	F|S	2	SUBJ	_	_
+2	produz	produzir	v	v-fin	PR|3S|IND	0	STA	_	_
+3	mais	muito	pron	pron-det	<quant>|<KOMP>|M|S	4	>N	_	_
+4	petróleo	petróleo	n	n	M|S	2	ACC	_	_
+
+
+1	O	o	art	art	<artd>|M|S	2	>N	_	_
+2	atentado	atentado	n	n	M|S	3	SUBJ	_	_
+3	teria	ter	v	v-fin	COND|3S	0	STA	_	_
+4	sido	ser	v	v-pcp	_	3	AUX	_	_
+5	planejado	planejar	v	v-pcp	M|S	4	MV	_	_
+6	por	por	prp	prp	<sam->	5	PASS	_	_
+7	o	o	art	art	<-sam>|<artd>|M|S	8	>N	_	_
+8	grupo	grupo	n	n	M|S	6	P<	_	_
+9	radical	radical	adj	adj	M|S	8	N<	_	_
+10	islâmico	islâmico	adj	adj	M|S	8	N<	_	_
+11	Gama'a_al-Islamiya	Gama\'a_al-Islamiya	prop	prop	M|S	8	N<	_	_
+12	,	,	punc	punc	_	8	PUNC	_	_
+13	que	que	pron	pron-indp	<rel>|M|S	14	SUBJ	_	_
+14	lançou	lançar	v	v-fin	PS|3S|IND	8	N<PRED	_	_
+15	campanha	campanha	n	n	F|S	14	ACC	_	_
+16	contra	contra	prp	prp	_	15	N<	_	_
+17	o	o	art	art	<artd>|M|S	18	>N	_	_
+18	governo	governo	n	n	M|S	16	P<	_	_
+19	egípcio	egípcio	adj	adj	M|S	18	N<	_	_
+20	em	em	prp	prp	_	14	ADVL	_	_
+21	1992	1992	num	num	<card>|M|P	20	P<	_	_
+22	para	para	prp	prp	_	14	ADVL	_	_
+23	a	o	art	art	<artd>|F|S	24	>N	_	_
+24	criação	criação	n	n	F|S	22	P<	_	_
+25	de	de	prp	prp	_	24	N<	_	_
+26	um	um	art	art	<arti>|M|S	27	>N	_	_
+27	Estado	estado	n	n	<prop>|M|S	25	P<	_	_
+28	Islâmico	islâmico	adj	adj	<prop>|M|S	27	N<	_	_
+29	fundamentalista	fundamentalista	adj	adj	M|S	27	N<	_	_
+30	.	.	punc	punc	_	3	PUNC	_	_
+
+
+1	Houve	haver	v	v-fin	PS|3S|IND	0	STA	_	_
+2	tiroteio	tiroteio	n	n	M|S	1	ACC	_	_
+3	.	.	punc	punc	_	1	PUNC	_	_
+
+
+1	O	o	art	art	<artd>|M|S	2	>N	_	_
+2	Chacal	Chacal	prop	prop	M|S	3	SUBJ	_	_
+3	chegou	chegar	v	v-fin	PS|3S|IND	0	STA	_	_
+4	ontem	ontem	adv	adv	_	3	ADVL	_	_
+5	a	a	prp	prp	<sam->	3	ADVL	_	_
+6	as	o	art	art	<-sam>|<artd>|F|P	7	>N	_	_
+7	10h30	10h30	n	n	F|P	5	P<	_	_
+8	(	(	punc	punc	_	7	PUNC	_	_
+9	5h30	5h30	n	n	F|P	7	N<PRED	_	_
+10	em	em	prp	prp	<sam->	7	ADVL	_	_
+11	o	o	art	art	<-sam>|<artd>|M|S	12	>N	_	_
+12	Brasil	Brasil	prop	prop	M|S	10	P<	_	_
+13	)	)	punc	punc	_	7	PUNC	_	_
+14	a	a	prp	prp	<sam->	3	PIV	_	_
+15	o	o	art	art	<-sam>|<artd>|M|S	16	>N	_	_
+16	Palácio_da_Justiça	Palácio_da_Justiça	prop	prop	M|S	14	P<	_	_
+17	,	,	punc	punc	_	3	PUNC	_	_
+18	usando	usar	v	v-ger	_	3	ADVL	_	_
+19	algemas	algema	n	n	F|P	18	ACC	_	_
+20	e	e	conj	conj-c	_	18	CO	_	_
+21	cercado	cercar	v	v-pcp	M|S	18	CJT	_	_
+22	por	por	prp	prp	_	21	PASS	_	_
+23	um	um	art	art	<arti>|M|S	25	>N	_	_
+24	forte	forte	adj	adj	M|S	25	>N	_	_
+25	esquema	esquema	n	n	M|S	22	P<	_	_
+26	de	de	prp	prp	_	25	N<	_	_
+27	segurança	segurança	n	n	F|S	26	P<	_	_
+28	.	.	punc	punc	_	3	PUNC	_	_
+
+
+1	Mas	mas	conj	conj-c	_	2	CO	_	_
+2	aceitei	aceitar	v	v-fin	PS|1S|IND	12	ACC	_	_
+3	porque	porque	adv	adv	<interr>	4	ADVL	_	_
+4	foi	ser	v	v-fin	PS|3S|IND	2	ADVL	_	_
+5	uma	um	art	art	<arti>|F|S	6	>N	_	_
+6	gentileza	gentileza	n	n	F|S	4	SC	_	_
+7	de	de	prp	prp	<sam->	6	N<	_	_
+8	o	o	art	art	<-sam>|<artd>|M|S	9	>N	_	_
+9	governador	governador	n	n	M|S	7	P<	_	_
+10	»	»	punc	punc	_	12	PUNC	_	_
+11	,	,	punc	punc	_	12	PUNC	_	_
+12	diz	dizer	v	v-fin	PR|3S|IND	0	STA	_	_
+13	.	.	punc	punc	_	12	PUNC	_	_
+
+
+1	Segundo	segundo	prp	prp	<rel>|<prp>	7	ADVL	_	_
+2	ele	ele	pron	pron-pers	M|3S|NOM	1	P<	_	_
+3	,	,	punc	punc	_	7	PUNC	_	_
+4	a	o	art	art	<artd>|F|S	5	>N	_	_
+5	proposta	proposta	n	n	F|S	7	SUBJ	_	_
+6	inicial	inicial	adj	adj	F|S	5	N<	_	_
+7	é	ser	v	v-fin	PR|3S|IND	0	STA	_	_
+8	zonear	zonear	v	v-inf	_	7	SC	_	_
+9	em	em	prp	prp	<sam->	8	ADVL	_	_
+10	o	o	art	art	<-sam>|<artd>|M|S	12	>N	_	_
+11	primeiro	primeiro	adj	adj	<NUM-ord>|M|S	12	>N	_	_
+12	ano	ano	n	n	M|S	9	P<	_	_
+13	a	o	art	art	<artd>|F|S	14	>N	_	_
+14	Bacia	bacia	n	n	<prop>|F|S	8	ACC	_	_
+15	de	de	prp	prp	<sam->	14	N<	_	_
+16	o	o	art	art	<-sam>|<artd>|M|S	17	>N	_	_
+17	rio	rio	n	n	M|S	15	P<	_	_
+18	Meia_Ponte	Meia_Ponte	prop	prop	M|S	17	N<	_	_
+19	.	.	punc	punc	_	7	PUNC	_	_
+
+
+1	Não	não	adv	adv	_	3	ADVL	_	_
+2	se	se	pron	pron-pers	M/F|3S/P|ACC	3	SUBJ	_	_
+3	pense	pensar	v	v-fin	PR|3S|SUBJ	0	STA	_	_
+4	que	que	conj	conj-s	_	8	SUB	_	_
+5	esta	este	pron	pron-det	<dem>|F|S	6	>N	_	_
+6	ruptura	ruptura	n	n	F|S	8	SUBJ	_	_
+7	modernizante	modernizante	adj	adj	F|S	6	N<	_	_
+8	passa	passar	v	v-fin	PR|3S|IND	3	ACC	_	_
+9	por	por	prp	prp	<sam->	8	PIV	_	_
+10	o	o	art	art	<-sam>|<artd>|M|S	11	>N	_	_
+11	PT	PT	prop	prop	M|S	9	P<	_	_
+12	.	.	punc	punc	_	3	PUNC	_	_
+
+
+1	O	o	art	art	<artd>|M|S	2	>N	_	_
+2	governo	governo	n	n	M|S	4	SUBJ	_	_
+3	não	não	adv	adv	_	4	ADVL	_	_
+4	está	estar	v	v-fin	PR|3S|IND	0	STA	_	_
+5	errado	errar	v	v-pcp	<n>|M|S	4	SC	_	_
+6	em	em	prp	prp	_	4	ADVL	_	_
+7	formular	formular	v	v-inf	_	6	P<	_	_
+8	regras	regra	n	n	F|P	7	ACC	_	_
+9	que	que	pron	pron-indp	<rel>|F|P	10	SUBJ	_	_
+10	possibilitem	possibilitar	v	v-fin	PR|3P|SUBJ	8	N<	_	_
+11	o	o	art	art	<artd>|M|S	12	>N	_	_
+12	alongamento	alongamento	n	n	M|S	10	ACC	_	_
+13	.	.	punc	punc	_	4	PUNC	_	_
+
+
+1	Afastado	afastar	v	v-pcp	M|S	10	PRED	_	_
+2	de	de	prp	prp	_	1	PIV	_	_
+3	seu	seu	pron	pron-det	<poss|3S>|M|S	4	>N	_	_
+4	companheiro	companheiro	n	n	M|S	2	P<	_	_
+5	de	de	prp	prp	_	4	N<	_	_
+6	ataque	ataque	n	n	M|S	5	P<	_	_
+7	,	,	punc	punc	_	6	PUNC	_	_
+8	Stoichkov	Stoichkov	prop	prop	M|S	6	APP	_	_
+9	,	,	punc	punc	_	10	PUNC	_	_
+10	pegou	pegar	v	v-fin	PS|3S|IND	0	STA	_	_
+11	pouco	pouco	adv	adv	<quant>	10	ADVL	_	_
+12	em	em	prp	prp	<sam->	10	ADVL	_	_
+13	a	o	art	art	<-sam>|<artd>|F|S	14	>N	_	_
+14	bola	bola	n	n	F|S	12	P<	_	_
+15	.	.	punc	punc	_	10	PUNC	_	_
+
+
+1	«	«	punc	punc	_	11	PUNC	_	_
+2	Em	em	prp	prp	<sam->	14	ADVL	_	_
+3	a	o	art	art	<-sam>|<artd>|F|S	4	>N	_	_
+4	Vila	vila	n	n	<prop>|F|S	2	P<	_	_
+5	,	,	punc	punc	_	11	PUNC	_	_
+6	quando	quando	adv	adv	<rel>|<ks>	7	ADVL	_	_
+7	recebo	receber	v	v-fin	PR|1S|IND	14	ADVL	_	_
+8	a	o	art	art	<artd>|F|S	9	>N	_	_
+9	bola	bola	n	n	F|S	7	ACC	_	_
+10	,	,	punc	punc	_	11	PUNC	_	_
+11	tenho	ter	v	v-fin	PR|1S|IND	0	STA	_	_
+12	que	que	conj	conj-s	_	11	PRT-AUX<	_	_
+13	ficar	ficar	v	v-inf	_	11	AUX	_	_
+14	olhando	olhar	v	v-ger	_	13	MV	_	_
+15	sua	seu	pron	pron-det	<poss|3S>|<si>|F|S	16	>N	_	_
+16	trajetória	trajetória	n	n	F|S	14	ACC	_	_
+17	,	,	punc	punc	_	11	PUNC	_	_
+18	para	para	prp	prp	_	14	ADVL	_	_
+19	não	não	adv	adv	_	21	ADVL	_	_
+20	ser	ser	v	v-inf	_	18	P<	_	_
+21	surpreendido	surpreender	v	v-pcp	M|S	20	MV	_	_
+22	.	.	punc	punc	_	11	PUNC	_	_
+
+
+1	Venezuela	Venezuela	prop	prop	F|S	0	UTT	_	_
+2	--	--	punc	punc	_	1	PUNC	_	_
+3	Miguel_Angel_Burelli_Rivas	Miguel_Angel_Burelli_Rivas	prop	prop	M|S	1	UTT	_	_
+4	(	(	punc	punc	_	3	PUNC	_	_
+5	ministro	ministro	n	n	M|S	3	N<PRED	_	_
+6	de	de	prp	prp	<sam->	5	N<	_	_
+7	as	o	art	art	<-sam>|<artd>|F|P	8	>N	_	_
+8	Relações_Exteriores	Relações_Exteriores	prop	prop	F|P	6	P<	_	_
+9	)	)	punc	punc	_	3	PUNC	_	_
+
+
+1	Até	até	prp	prp	_	11	ADVL	_	_
+2	aqui	aqui	adv	adv	_	1	P<	_	_
+3	,	,	punc	punc	_	8	PUNC	_	_
+4	os	o	art	art	<artd>|M|P	5	>N	_	_
+5	tiros	tiro	n	n	M|P	8	SUBJ	_	_
+6	de	de	prp	prp	_	5	N<	_	_
+7	Lula	Lula	prop	prop	M|S	6	P<	_	_
+8	parecem	parecer	v	v-fin	PR|3P|IND	0	STA	_	_
+9	não	não	adv	adv	_	11	ADVL	_	_
+10	ter	ter	v	v-inf	_	8	AUX	_	_
+11	abalado	abalar	v	v-pcp	_	10	MV	_	_
+12	o	o	art	art	<artd>|M|S	13	>N	_	_
+13	alvo	alvo	n	n	M|S	11	ACC	_	_
+14	.	.	punc	punc	_	8	PUNC	_	_
+
+
+1	Moscou	Moscou	prop	prop	M|S	2	SUBJ	_	_
+2	exige	exigir	v	v-fin	PR|3S|IND	0	STA	_	_
+3	que	que	conj	conj-s	_	8	SUB	_	_
+4	conferência	conferência	n	n	F|S	8	SUBJ	_	_
+5	sobre	sobre	prp	prp	_	4	N<	_	_
+6	segurança	segurança	n	n	F|S	5	P<	_	_
+7	européia	europeu	adj	adj	F|S	6	N<	_	_
+8	recompense	recompensar	v	v-fin	PR|3S|SUBJ	2	ACC	_	_
+9	a	o	art	art	<artd>|F|S	10	>N	_	_
+10	Sérvia	Sérvia	prop	prop	F|S	8	ACC	_	_
+11	por	por	prp	prp	_	8	PIV	_	_
+12	pressionar	pressionar	v	v-inf	_	11	P<	_	_
+13	sérvios-bósnios	sérvio-bosnio	n	n	M|P	12	ACC	_	_
+
+
+
+1	Em	em	prp	prp	<sam->	12	ADVL	_	_
+2	o	o	art	art	<-sam>|<artd>|M|S	3	>N	_	_
+3	parágrafo	parágrafo	n	n	M|S	1	P<	_	_
+4	único	único	adj	adj	M|S	3	N<	_	_
+5	de	de	prp	prp	<sam->	3	N<	_	_
+6	o	o	art	art	<-sam>|<artd>|M|S	9	>N	_	_
+7	seu	seu	pron	pron-det	<poss|3S>|M|S	9	>N	_	_
+8	primeiro	primeiro	adj	adj	<NUM-ord>|M|S	9	>N	_	_
+9	artigo	artigo	n	n	M|S	5	P<	_	_
+10	,	,	punc	punc	_	12	PUNC	_	_
+11	ele	ele	pron	pron-pers	M|3S|NOM	12	SUBJ	_	_
+12	afirma	afirmar	v	v-fin	PR|3S|IND	0	STA	_	_
+13	que	que	conj	conj-s	_	17	SUB	_	_
+14	os	o	art	art	<artd>|M|P	15	>N	_	_
+15	candidatos	candidato	n	n	M|P	17	SUBJ	_	_
+16	não	não	adv	adv	_	18	ADVL	_	_
+17	podem	poder	v	v-fin	PR|3P|IND	12	ACC	_	_
+18	apresentar	apresentar	v	v-inf	_	17	MV	_	_
+19	«	«	punc	punc	_	20	PUNC	_	_
+20	patologia	patologia	n	n	F|S	18	ACC	_	_
+21	com	com	prp	prp	_	20	N<	_	_
+22	perspectiva	perspectiva	n	n	F|S	21	P<	_	_
+23	presente	presente	adj	adj	F|S	22	N<	_	_
+24	,	,	punc	punc	_	22	PUNC	_	_
+25	de	de	prp	prp	_	22	N<PRED	_	_
+26	incapacidade	incapacidade	n	n	F|S	25	P<	_	_
+27	em	em	prp	prp	<sam->	26	N<	_	_
+28	o	o	art	art	<-sam>|<artd>|M|S	29	>N	_	_
+29	futuro	futuro	n	n	M|S	27	P<	_	_
+30	»	»	punc	punc	_	20	PUNC	_	_
+31	.	.	punc	punc	_	12	PUNC	_	_
+
+
+1	Custa	custar	v	v-fin	PR|3S|IND	0	STA	_	_
+2	US$	US$	n	n	<prop>|M|P	1	ACC	_	_
+3	45	45	num	num	<card>|M|P	2	N<	_	_
+4	em	em	prp	prp	<sam->	1	ADVL	_	_
+5	a	o	art	art	<-sam>|<artd>|F|S	6	>N	_	_
+6	Multimídia_Center	Multimídia_Center	prop	prop	F|S	4	P<	_	_
+7	(	(	punc	punc	_	6	PUNC	_	_
+8	tel	tel	n	n	M|S	6	N<PRED	_	_
+9	011_959-2650	011_959-2650	num	num	<card>|M/F|P	8	N<	_	_
+10	)	)	punc	punc	_	6	PUNC	_	_
+11	.	.	punc	punc	_	1	PUNC	_	_
+
+
+1	A_partir_de	a_partir_de	prp	prp	<sam->	9	ADVL	_	_
+2	o	o	art	art	<artd>|<-sam>|M|S	3	>N	_	_
+3	dia	dia	n	n	M|S	1	P<	_	_
+4	17	17	num	num	<card>|M|P	3	N<	_	_
+5	,	,	punc	punc	_	9	PUNC	_	_
+6	a	o	art	art	<artd>|F|S	7	>N	_	_
+7	Playtronic	Playtronic	prop	prop	F|S	9	SUBJ	_	_
+8	também	também	adv	adv	_	9	ADVL	_	_
+9	terá	ter	v	v-fin	FUT|3S|IND	0	STA	_	_
+10	um	um	art	art	<arti>|M|S	11	>N	_	_
+11	estande	estande	n	n	M|S	9	ACC	_	_
+12	em	em	prp	prp	<sam->	9	ADVL	_	_
+13	o	o	art	art	<-sam>|<artd>|M|S	14	>N	_	_
+14	Iguatemi	Iguatemi	prop	prop	M|S	12	P<	_	_
+15	.	.	punc	punc	_	9	PUNC	_	_
+
+
+
+1	Os	o	art	art	<artd>|M|P	2	>N	_	_
+2	motoristas	motorista	n	n	M|P	18	SUBJ	_	_
+3	de	de	prp	prp	<sam->	2	N<	_	_
+4	a	o	art	art	<-sam>|<artd>|F|S	5	>N	_	_
+5	EMTU	EMTU	prop	prop	F|S	3	P<	_	_
+6	(	(	punc	punc	_	5	PUNC	_	_
+7	Empresa_Metropolitana_de_Transportes_Urbanos	Empresa_Metropolitana_de_Transportes_Urbanos	prop	prop	F|S	5	APP	_	_
+8	)	)	punc	punc	_	5	PUNC	_	_
+9	,	,	punc	punc	_	5	PUNC	_	_
+10	empresa	empresa	n	n	F|S	5	N<PRED	_	_
+11	de	de	prp	prp	<sam->	10	N<	_	_
+12	o	o	art	art	<-sam>|<artd>|M|S	13	>N	_	_
+13	governo	governo	n	n	M|S	11	P<	_	_
+14	de	de	prp	prp	<sam->	13	N<	_	_
+15	o	o	art	art	<-sam>|<artd>|M|S	16	>N	_	_
+16	Estado	estado	n	n	<prop>|M|S	14	P<	_	_
+17	,	,	punc	punc	_	5	PUNC	_	_
+18	têm	ter	v	v-fin	PR|3P|IND	0	STA	_	_
+19	o	o	art	art	<artd>|M|S	21	>N	_	_
+20	mesmo	mesmo	pron	pron-det	<diff>|<KOMP>|M|S	21	>N	_	_
+21	piso	piso	n	n	M|S	18	ACC	_	_
+22	salarial	salarial	adj	adj	M|S	21	N<	_	_
+23	de	de	prp	prp	<sam->	21	N<	_	_
+24	as	o	art	art	<-sam>|<artd>|F|P	25	>N	_	_
+25	empresas	empresa	n	n	F|P	23	P<	_	_
+26	privadas	privado	adj	adj	F|P	25	N<	_	_
+27	.	.	punc	punc	_	18	PUNC	_	_
+
+
+1	Infância	infância	n	n	F|S	0	UTT	_	_
+2	:	:	punc	punc	_	1	PUNC	_	_
+
+
+1	Em	em	prp	prp	<sam->	0	UTT	_	_
+2	o	o	art	art	<-sam>|<artd>|M|S	3	>N	_	_
+3	ataque	ataque	n	n	M|S	1	P<	_	_
+
+
+
+
+
+
+
+
+
+
+
+
+
